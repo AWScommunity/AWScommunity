@@ -6,7 +6,8 @@ When using AWS for R&D ahead of planned migration, how do you prevent unexpected
 1.  Using Root AWS acc, enable billing alerts in user preferences. Then use CloudWatch to create billing alarm & set threashold to specific dollar amount for your est monthly charges.
 2.  Using Root AWS acc, activate IAM access to billing information for account. Ensure your IAM user have BillingFullAccess Group Policy. Then from billing dashboard, check accrued charge once a day.
 3.  Use bill dashboard to create cost budget. Input max amount you want to be charged each mo. Any charges that occur over this amount will cause AWS to auto suspend these resources.
-*4.  If you are using AWS free tier, you will have to confirm usage of any service that goes over AWS free tier limits.*
+
+**4.  If you are using AWS free tier, you will have to confirm usage of any service that goes over AWS free tier limits.**
 Correct ans : 4
 
 ---
