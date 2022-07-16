@@ -1,4 +1,4 @@
-https://skillbuilder.aws/  for free learning AWS
+https://skillbuilder.aws/  for free learning AWS [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 
 
 Some questions commonly asked in AWS SAA- CO2 Solution Archi Exam:
