@@ -1,7 +1,7 @@
 https://skillbuilder.aws/  for free learning AWS [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 ---
 watch this below dgm w that CIDR notes from my Whitepaper
-![image](https://user-images.githubusercontent.com/109033173/179360300-b733baea-4dd6-46a9-ab4a-e557d09a2b2b.png)
+![image](https://user-images.githubusercontent.com/109033173/179361443-1730266d-9a87-44c9-aba2-a37266844b18.png)
 ---
 AWS Elastic Beanstalk handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.
 
