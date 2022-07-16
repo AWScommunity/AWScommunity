@@ -1,5 +1,7 @@
 https://skillbuilder.aws/  for free learning AWS
 
+![image](https://user-images.githubusercontent.com/109033173/179350119-10134cfa-513b-4007-aee6-4291a36ddce1.png)
+
 Some questions commonly asked in AWS SAA- CO2 Solution Archi Exam:
   
 When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
@@ -19,4 +21,4 @@ When launching EC2 instance with instance type that supports instance storage, w
  
 ---
  When creating new EC2 instance, we can access it from public internet BY auto-assigning to it new public IP address.
- How does security group protect your cloud infrastructure? Wrong ans- traffic is allowed to flow betn AWS services but you must add rules to expose ports to public internet. HINT is: A security group with no outbound rules will also block that resources from reaching out to other AWS service endpoints.
+ How does security group protect your cloud infrastructure? Wrong ans- traffic is allowed to flow betn AWS services but you must add rules to expose ports to public internet. HINT is: A security group with no outbound rules will also block that resources from reaching out to other AWS service endpoints. 
