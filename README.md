@@ -5,7 +5,7 @@ watch this below dgm w that CIDR notes from my Whitepaper
 ---
 AWS Elastic Beanstalk handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.
 
-to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps But not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below: <iframe src="https://giphy.com/embed/2wLc0VnNbFwyRCZn2U" width="480" height="211" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2wLc0VnNbFwyRCZn2U">via GIPHY</a></p>
+to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps But not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 ---
 Some questions commonly asked in AWS SAA- CO2 Solution Archi Exam:
 When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
