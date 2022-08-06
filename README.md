@@ -5,7 +5,7 @@ AWS Elastic Beanstalk handles the auto- provisioning of the infrastructure, depl
 
 ---
 watch this below dgm w that CIDR notes from my Whitepaper
-![image](https://user-images.githubusercontent.com/109033173/183239675-466251f7-3074-42d2-a4e0-3c81f4762c84.png)
+![image](https://user-images.githubusercontent.com/109033173/183240652-76f9f489-b36b-4b9c-952a-49189d5c789c.png)
 ---
 Some questions commonly asked in AWS SAA- CO2 Solution Archi Exam:
 When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
