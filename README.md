@@ -15,6 +15,9 @@ b) uses AssumeRole API call to gain temporary role based access to AWS
 
 btw: Federation unlike SSO or unlike authentication is a collection of domains that have established trust. The level of trust may vary, but typically includes authentication and almost always includes authorization. A typical federation might include a number of organizations that have established trust for shared access to a set of resources.
 also dyk that while doing IAM in root, you have to grant or deny permissions to individual IAM, or in group ,or do to federated domains.
+    and if we want 50 new employees to have access to S3 buckets with unltd previlege and rest 60 with not, then I simply do:
+
+create new group adding that 50 and add S3 bucket policy with unltd previlege.
 ---
 ![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png)
 ---
