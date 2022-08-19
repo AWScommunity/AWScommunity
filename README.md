@@ -2,7 +2,7 @@ https://skillbuilder.aws/  for free learning AWS [.](https://gist.github.com/AWS
 ![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png)
 ---
 ![image](https://user-images.githubusercontent.com/109033173/183808397-daf854b3-6494-4951-8612-cb8df8cf1cac.png)
-![image](https://user-images.githubusercontent.com/109033173/185548155-b630d80d-5424-4a56-acd9-85080b390e9b.png)
+![image](https://user-images.githubusercontent.com/109033173/185548155-b630d80d-5424-4a56-acd9-85080b390e9b.png) Paas eg is Db aaS
 ---
 CNAME record, A record comes while using DNS ie Route53, 53 is basically port no. related to DNS so
 ![image](https://user-images.githubusercontent.com/109033173/185548275-db84c85b-180b-4c68-b072-b81e1c76b0d4.png)
