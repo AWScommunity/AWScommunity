@@ -1,4 +1,25 @@
 https://skillbuilder.aws/  for free learning AWS [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
+---
+ IAM-policy-Ninja post: is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. policy are by default restricted and we have to gradually set it to be accessed ie. true in yml language in policy. ie if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal master adminstrative aws acc. 
+
+achieve single sign-on in principal aka root aws acc by configuring SAML2.0 
+
+now lets get around some tricky situation where for SSO, SAML2.0 is not configured. suppose some X company has employees who need to run internal applications that access company's aws resources. these employees already have user credentials in company's Identity Auth system, WHICH DOESNT SUPPORT SAML2.0 ,and company doesnt want to create seperate IAM user for each company employees. 
+SO, IN THIS CASE, SSO setup can be designed by: creating custom identity broker application which authenticates employees using existing system, and a) uses GetFederationToken API call and passes permission policy to gain temporary access credentials from Security.Token.Service. b) uses AssumeRole API call to gain temporary role based access to AWS 
+
+btw: Federation unlike SSO or unlike authentication is a collection of domains that have established trust. The level of trust may vary, but typically includes authentication and almost always includes authorization. A typical federation might include a number of organizations that have established trust for shared access to a set of resources. also dyk that while doing IAM in root, you have to grant or deny permissions to individual IAM, or in group ,or do to federated domains.
+![image](https://user-images.githubusercontent.com/109033173/185585639-4411313d-50a4-449c-8b7b-6736bc8f62c9.png)
+
+achieve single sign-on in principal aka root aws acc by configuring SAML2.0
+
+now lets get around some tricky situation where for SSO, SAML2.0 is not configured. 
+suppose some X company has employees who need to run internal applications that access company's aws resources. these employees already have user credentials in company's Identity Auth system, WHICH DOESNT SUPPORT SAML2.0 ,and company doesnt want to create seperate IAM user for each company employees. SO, IN THIS CASE, SSO setup can be designed by:
+creating custom identity broker application which authenticates employees using existing system, and 
+a) uses GetFederationToken API call and passes permission policy to gain temporary access credentials from Security.Token.Service.
+b) uses AssumeRole API call to gain temporary role based access to AWS
+--
+btw: Federation unlike SSO or unlike authentication is a collection of domains that have established trust. The level of trust may vary, but typically includes authentication and almost always includes authorization. A typical federation might include a number of organizations that have established trust for shared access to a set of resources.
+also dyk that while doing IAM in root, you have to grant or deny permissions to individual IAM, or in group ,or do to federated domains.
 ![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png)
 ---
 ![image](https://user-images.githubusercontent.com/109033173/183808397-daf854b3-6494-4951-8612-cb8df8cf1cac.png)
