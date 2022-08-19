@@ -2,6 +2,10 @@ https://skillbuilder.aws/  for free learning AWS [.](https://gist.github.com/AWS
 ![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png)
 ---
 ![image](https://user-images.githubusercontent.com/109033173/183808397-daf854b3-6494-4951-8612-cb8df8cf1cac.png)
+![image](https://user-images.githubusercontent.com/109033173/185548155-b630d80d-5424-4a56-acd9-85080b390e9b.png)
+---
+CNAME record, A record comes while using DNS ie Route53, 53 is basically port no. related to DNS so
+![image](https://user-images.githubusercontent.com/109033173/185548275-db84c85b-180b-4c68-b072-b81e1c76b0d4.png)
 ---
 AWS Elastic Beanstalk handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 
