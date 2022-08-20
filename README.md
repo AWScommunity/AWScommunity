@@ -1,9 +1,10 @@
 https://skillbuilder.aws/  for free learning AWS [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 ---
- IAM-policy-Ninja post: is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. policy are by default restricted and we have to gradually set it to be accessed ie. true in yml language in policy. ie if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal master adminstrative aws acc. 
+![image](https://user-images.githubusercontent.com/109033173/185743047-ca90154f-f832-4145-a1bc-14b968c20a39.png)
+IAM-policy-Ninja post: is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. 
+For eg, if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal aka master aka root aws acc. 
 
-![image](https://user-images.githubusercontent.com/109033173/185585639-4411313d-50a4-449c-8b7b-6736bc8f62c9.png)
-
+![image](https://user-images.githubusercontent.com/109033173/185743032-f91f0896-ec79-4c3a-8008-355e06bde191.png)
 achieve single sign-on in principal aka root aws acc by configuring SAML2.0
 
 now lets get around some tricky situation where for SSO, SAML2.0 is not configured. 
@@ -42,7 +43,6 @@ When using AWS for R&D ahead of planned migration, how do you prevent unexpected
 3.  Use bill dashboard to create cost budget. Input max amount you want to be charged each mo. Any charges that occur over this amount will cause AWS to auto suspend these resources.
 
 4.  If you are using AWS free tier, you will have to confirm usage of any service that goes over AWS free tier limits.
-Correct ans : 1
 ---
 When launching EC2 instance with instance type that supports instance storage, what use case best for instance storage?
 1. Instance storage is faster than EBS vol. so, install root of operating sys on this vol to speed up server performance.
@@ -56,3 +56,6 @@ An new CIO joins your company and implements a new company policy that all EC2 i
 
 In the AWS console, click on the EC2 instances, click actions and click encrypt EBS voulmes.
 Create a snapshot of the EC2 volume. Then create a copy of that volume, checking the box to enable encryption. Create an AMI of the copied snapshot and then redeploy the EC2 instance using the encrypted AMI. Delete the old EC2 instance. (Ans)
+---
+A2Z About S3
+![image](https://user-images.githubusercontent.com/109033173/185743695-bc27d6f6-f789-462e-bff2-848a0f22b73c.png)
