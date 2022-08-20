@@ -57,5 +57,4 @@ An new CIO joins your company and implements a new company policy that all EC2 i
 In the AWS console, click on the EC2 instances, click actions and click encrypt EBS voulmes.
 Create a snapshot of the EC2 volume. Then create a copy of that volume, checking the box to enable encryption. Create an AMI of the copied snapshot and then redeploy the EC2 instance using the encrypted AMI. Delete the old EC2 instance. (Ans)
 ---
-A2Z About S3
-![image](https://user-images.githubusercontent.com/109033173/185743695-bc27d6f6-f789-462e-bff2-848a0f22b73c.png)
+![image](https://user-images.githubusercontent.com/109033173/185744148-641cc589-3683-4f04-a698-7a15efad02a0.png)
