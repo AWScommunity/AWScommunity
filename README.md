@@ -68,7 +68,7 @@ Create a snapshot of the EC2 volume. Then create a copy of that volume, checking
 
 ---
 
-![image](https://user-images.githubusercontent.com/109033173/185744148-641cc589-3683-4f04-a698-7a15efad02a0.png)
+![image](https://user-images.githubusercontent.com/109033173/185744687-6be82ca0-09e6-4308-b4bf-ea9612aa11a0.png)
 
 ---
 ![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
