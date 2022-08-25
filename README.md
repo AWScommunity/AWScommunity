@@ -77,4 +77,8 @@ Create a snapshot of the EC2 volume. Then create a copy of that volume, checking
 Idk whats going on below, after i understand i del below:
 |![image](https://user-images.githubusercontent.com/109033173/185748095-dceab7b1-04a2-40db-8815-312868554fa3.png)
 
+---
+about SQS- additional note other than my pownotes
+![image](https://user-images.githubusercontent.com/109033173/186567385-af686d8a-27de-43d8-9d58-13939dba2739.png)
+
 
