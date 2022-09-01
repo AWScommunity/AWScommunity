@@ -80,5 +80,7 @@ NOT too IMP
 ---
 about SQS- additional note other than my pownotes
 ![image](https://user-images.githubusercontent.com/109033173/186567385-af686d8a-27de-43d8-9d58-13939dba2739.png)
+---
+![image](https://user-images.githubusercontent.com/109033173/187924265-c4896638-7f62-447d-8e3d-3d7ba761a1a4.png)
 
 
