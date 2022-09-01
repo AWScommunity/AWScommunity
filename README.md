@@ -74,8 +74,8 @@ Create a snapshot of the EC2 volume. Then create a copy of that volume, checking
 ![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
 
 ---
-Idk whats going on below, after i understand i del below:
-|![image](https://user-images.githubusercontent.com/109033173/185748095-dceab7b1-04a2-40db-8815-312868554fa3.png)
+NOT too IMP
+![image](https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png)
 
 ---
 about SQS- additional note other than my pownotes
