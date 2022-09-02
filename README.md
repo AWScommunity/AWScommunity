@@ -27,11 +27,8 @@ create new group adding that 50 and add S3 bucket policy with unltd previlege.
 
 ![image](https://user-images.githubusercontent.com/109033173/185548155-b630d80d-5424-4a56-acd9-85080b390e9b.png) Paas eg is Db aaS
 ---
-
-CNAME record, A record comes while using DNS ie Route53, 53 is basically port no. related to DNS so
-![image](https://user-images.githubusercontent.com/109033173/185548275-db84c85b-180b-4c68-b072-b81e1c76b0d4.png)
+![image](https://user-images.githubusercontent.com/109033173/188077200-bc536f61-4776-4935-86c5-c5567b175d2e.png)
 ---
-
 AWS Elastic Beanstalk handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 
 ---
@@ -81,6 +78,6 @@ NOT too IMP
 about SQS- additional note other than my pownotes
 ![image](https://user-images.githubusercontent.com/109033173/186567385-af686d8a-27de-43d8-9d58-13939dba2739.png)
 ---
-![image](https://user-images.githubusercontent.com/109033173/187924265-c4896638-7f62-447d-8e3d-3d7ba761a1a4.png)
-
+CNAME record, A record comes while using DNS ie Route53, 53 is basically port no. related to DNS so
+![image](https://user-images.githubusercontent.com/109033173/185548275-db84c85b-180b-4c68-b072-b81e1c76b0d4.png)
 
