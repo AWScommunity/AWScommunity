@@ -80,6 +80,8 @@ about SQS- additional note other than my pownotes
 ---
 ![image](https://user-images.githubusercontent.com/109033173/188313111-0942e511-a417-4414-b0b2-e00abb2d5c1e.png)
 
+![image](https://user-images.githubusercontent.com/109033173/188649585-f38d6e39-47c4-479b-b9b1-5c3c9267caaf.png)
+
 --- NOT NECESSARY FROM BELOW-----
 CNAME record, A record comes while using DNS ie Route53, 53 is basically port no. related to DNS so
 ![image](https://user-images.githubusercontent.com/109033173/185548275-db84c85b-180b-4c68-b072-b81e1c76b0d4.png)
