@@ -81,7 +81,5 @@ about SQS- additional note other than my pownotes
 ---
 ![image](https://user-images.githubusercontent.com/109033173/188313111-0942e511-a417-4414-b0b2-e00abb2d5c1e.png)
 
-![image](https://user-images.githubusercontent.com/109033173/188649585-f38d6e39-47c4-479b-b9b1-5c3c9267caaf.png)
-
-![image](https://user-images.githubusercontent.com/109033173/189110939-1a6a6fe5-d987-421c-b47f-6ebe0fa64dac.png)
+![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
 
