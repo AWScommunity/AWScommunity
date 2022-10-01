@@ -79,7 +79,7 @@ NOT too IMP
 about SQS- additional note other than my pownotes
 ![image](https://user-images.githubusercontent.com/109033173/186567385-af686d8a-27de-43d8-9d58-13939dba2739.png)
 ---
-![image](https://user-images.githubusercontent.com/109033173/188313111-0942e511-a417-4414-b0b2-e00abb2d5c1e.png)
+![image](https://user-images.githubusercontent.com/109033173/193422322-b40f7d08-68b7-4d6f-8a3e-faaf23aa1606.png)
 
 ![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
 
