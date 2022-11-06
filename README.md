@@ -88,35 +88,3 @@ aaaa
 
 ![image](https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png)
 bbb
----
-----
-![image](https://user-images.githubusercontent.com/109033173/200162914-27db87c9-6fc6-4f81-b282-2f3b8aa6ec16.png)
-
- 
-|  1st column |  2nd column |
- ------------- | -----------|
-|  data 1      | data 2     |
-|  data3    | data 4  |
-
-```javascript
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>My First JavaScript</h2>
-
-<button type="button"
-onclick="document.getElementById('demoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa').innerHTML = Date()">
-Click me to display Date and Time.</button>
-
-<p id="demo"></p>
-
-</body>
-</html> 
-```
-
-I am preparing list of items what we need for picnic. I have added some list. Please pull request me any of your suggestion.
-1. bus
-2. fast food items
-3. tent
-4. coca-cola
