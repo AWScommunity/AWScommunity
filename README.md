@@ -98,7 +98,7 @@ bbb
 |  data 1      | data 2     |
 |  data3    | data 4  |
 
-``` javascript
+```javascript
 <!DOCTYPE html>
 <html>
 <body>
@@ -106,7 +106,7 @@ bbb
 <h2>My First JavaScript</h2>
 
 <button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
+onclick="document.getElementById('demoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
 <p id="demo"></p>
