@@ -97,3 +97,20 @@ bbb
  ------------- | -----------|
 |  data 1      | data 2     |
 |  data3    | data 4  |
+
+``` javascript
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My First JavaScript</h2>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+```
