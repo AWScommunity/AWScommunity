@@ -26,7 +26,7 @@ create new group adding that 50 and add S3 bucket policy with unltd previlege.
 ---
 ![image](https://user-images.githubusercontent.com/109033173/183808397-daf854b3-6494-4951-8612-cb8df8cf1cac.png)
 
-![image](https://user-images.githubusercontent.com/109033173/185548155-b630d80d-5424-4a56-acd9-85080b390e9b.png) Paas eg is Db aaS
+![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
 ---
 ![image](https://user-images.githubusercontent.com/109033173/188077200-bc536f61-4776-4935-86c5-c5567b175d2e.png)
 ---
