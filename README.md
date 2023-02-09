@@ -88,63 +88,6 @@ aaaa
 
 ![image](https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png)
 
-Coding can be compared to writing cooking recipes. A recipe in this analogy is the program and the cook is the computer. A recipe is a list of instructions for a cook to follow and a program is a list of instructions for a computer to execute.    There are also not a lot of unexpected things to plan for in a recipe while a computer program will have many. Regardless of its simplicity, it is a good way to show how a computer carries out a list of instructions sequentially. It also shows where one instruction line can use any result from executing prior instruction lines.
-
-I also like this analogy because of all the ready items and tools that you can use in your recipes — like the cake mix that you can use to make cupcakes and that specially-shaped pan that makes it so much easier to create cupcakes.
-
-The use of ready items and tools is like including and using a package of code written by others in your own code.
-
-````
-// The making of a cupcake// First steps:
-$ npm install cake-mix$ npm install cupcake-pan
-NPM is the package manager for Node.js, which a very popular framework for writing JavaScript applications. In this analogy, Node.js is like the kitchen itself. It allows you to execute lines in your recipes by using built-in modules like your oven and sink.
-````
-Speaking of unhealthy food, this next analogy is for learning how to code and is compared to eating habits. I particularly LOVE this analogy and what it conveys because it helps me to stay on track in my code learning journey. For me, this began in high school and will continue until my brain reaches its last instruction: die();
-
-Learning To Code
-Learning to code is like trying to lose weight. This analogy applies to learning anything really, but learning to code is a special match here.
-
-“Losing Weight” is a negative term. We should really call it “Gaining Health.” In that sense, it is very much comparable to “Gaining Knowledge.” The educational resources you have available to you are like your food options. Some are just okay, some are great, and some are completely bad for you. Eating healthy and exercising are the main two activities that will help you gain health. Similarly, consuming good educational resources and practicing coding by hand are the main two activities that will help you gain good coding knowledge.
-
-So how do you learn “healthy”? When you commit to eating healthy, you use filters like organic, local, reduced-fat, grass-fed, and non-gmo. It is exactly the same with healthy educational resources except these labels are not yet as clear. I hope educational resources will someday have verifiable and relevant labels too. Maybe labels like “not-sponsored,” “no-marketing,” “approved-by-experts,” “tightly-edited,” and “dragons-ahead.”
-
-Yet, instead of filtering by the content, you can easily filter by the good brands. I do that with food too. I know and trust a few brands and I mostly use those. It is easier. With educational resources, there are some brands (publications and people) that you should just follow all the time.
-
-After filtering your knowledge intake to only the good resources, you just need to exercise! Practice everything you learn, but not just by re-doing exactly what you learned. Also challenge yourself to do something slightly different around the topics that you learned. If you are lucky, you will get stuck! Then you will permanently learn something else when you get unstuck.
-
-Exercise is for both the body and the mind.
-
-**Variables**
-Variables are used in computer programs to hold data. This is a very simplified statement and it is by many measures simply wrong.
-
-Variables do not hold data. They just point to it. Data is held in the computer’s memory. You can compare variables to the labels you place on your email messages (or notes, or files).
-
-All code samples in this article are written in JavaScript. JavaScript is a very easy to learn computer language.
-
-In Gmail, a label is a pointer to an email or a list of emails. Many labels can point to the same email. This is similar to assigning another variable to an existing variable:
-
-let work = [email1, email2, email3];let important = work;
-Both work and important are now labels that point to the exact same list of emails.
-
-Some variables represent constant references. They cannot be changed. This is like the “sent” label in Gmail. While we can change the work label above and make it point to a different list of emails, we cannot change the label sent. You cannot point the sent label to a different list of emails. You can only make it point to more emails.
-
-const sent = [];
-// You cannot change the meaning of sent now// But you can add more values to it:
-sent.push(new Email());
-Errors and Exceptions
-A programmer’s expertise is largely about how to deal with errors. Expert programmers love errors because, for them, errors mean progress.
-
-Sometimes we expect to see these wonderful red messages and if we do not we know that the code is simply wrong!
-
-I love the phrase “listen to your code” because I think code evolves by communicating to us using errors.
-
-This is exactly like raising kids.
-
-The most important parenting concept that I realized, with practice, is how kids communicate by misbehaving. This is because they do not have a logical brain yet. I think programs do the exact same thing. They also communicate by misbehaving (producing errors) because programs are not completely logical. Your task as a programmer is to add more logic in the code to handle the cases that originally produced errors. This is just like how a parent’s task is to teach the misbehaving kid what is wrong with that bad behavior and what to do differently next time.
-
-Some errors are not recoverable and a program encountering those should just exit (and be rebooted). This is like if your heart stops. There is not much that can be done except to reboot it with an electric shock. This is why we monitor our programs and reboot them when they get to that state. Luckily, the process of rebooting a program is not as dramatic.
-
-Most errors that happen during the early development of programs help improve these programs so that the errors never happen. This is how good kids are raised. They do not repeat the misbehaving because now they have good logic to guide them in a good direction.
 
 Some errors evolve to be exceptions. Exceptions are expected errors. Errors that we can plan for and recover from. The best coding example here is a Network Connection error while we make a program, for example, download some data. This is very much expected because we know network connections could be unreliable so we plan for that error. When that error happens, let’s label the task of downloading that data as incomplete. Queue it somewhere, and re-try it at a later time (see below for an analogy for queuing).
 
