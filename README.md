@@ -87,11 +87,3 @@ about SQS- additional note other than my pownotes
 aaaa
 
 ![image](https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png)
-
-
-Some errors evolve to be exceptions. Exceptions are expected errors. Errors that we can plan for and recover from. The best coding example here is a Network Connection error while we make a program, for example, download some data. This is very much expected because we know network connections could be unreliable so we plan for that error. When that error happens, let’s label the task of downloading that data as incomplete. Queue it somewhere, and re-try it at a later time (see below for an analogy for queuing).
-
-What we did with this planned exception is give the computer a different set of instructions (a different recipe) to do when that error happens. We do exactly that with our kids as well. We give them instructions about what to do in certain future scenarios that we expect (or fear in this case).
-
-// Hey kidsif (stranger.offersYou(chocolate)) {  doNotAccept();  doNotTalkTo(stranger);  walkAway();}
-if (stranger.triesToForceYouToDoSomething()) {  screamFor(help);  runAway();  call(911);}
