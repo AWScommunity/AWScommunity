@@ -74,10 +74,6 @@ How does security group protect your cloud infrastructure? Wrong ans- traffic is
 ![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
 
 ---
-NOT too IMP
-![image](https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png)
-
----
 about SQS- additional note other than my pownotes
 ![image](https://user-images.githubusercontent.com/109033173/186567385-af686d8a-27de-43d8-9d58-13939dba2739.png)
 ---
@@ -89,6 +85,8 @@ about SQS- additional note other than my pownotes
 cloud soln archi quiz solving screenshots, put this way so as to not steal FOCUS from main meats above.
 https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png
 https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
+https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png
+
 
 --
 new CIO joins your company and implements a new company policy that all EC2 instances must have encryption at rest. What is the quickest and easiest way to apply this policy to your existing EC2 instances?
