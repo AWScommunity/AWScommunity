@@ -62,6 +62,18 @@ Elastic BeanStalk : It handles the auto- provisioning of the infrastructure, dep
 ec2 reserved instances        ec2 spot instances works on solo and on the spot
 
 ec2 dedicated hosts are usually when company wants to migrate n tier web applications to AWS and company wnats to control placement of instances and have visibility to underlying sockets and cores for listening purposes.
+```
+When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
+1.  Using Root AWS acc, enable billing alerts in user preferences. Then use CloudWatch to create billing alarm & set threashold to specific dollar amount for your est monthly charges.  (correct ans)
+
+2.  Using Root AWS acc, activate IAM access to billing information for account. 
+Ensure your IAM user have BillingFullAccess Group Policy. Then from billing dashboard, check accrued charge once a day.
+
+3.  Use bill dashboard to create cost budget. Input max amount you want to be charged each mo. 
+Any charges that occur over this amount will cause AWS to auto suspend these resources.
+
+4.  If you are using AWS free tier, you will have to confirm usage of any service that goes over AWS free tier limits.
+```
 
 3.5 S3
 ![s3](https://user-images.githubusercontent.com/109033173/221375145-c9aade21-8a6e-49a0-bc4f-1182c6367f9e.png)
@@ -86,9 +98,6 @@ watch this below dgm w that CIDR notes from my Whitepaper
 ![image](https://user-images.githubusercontent.com/109033173/183240652-76f9f489-b36b-4b9c-952a-49189d5c789c.png)
 
 ---
-![image](https://user-images.githubusercontent.com/109033173/185830254-038e4876-beeb-45ff-9026-103df622dccd.png)
-
----
 ![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
 
 ---
@@ -102,14 +111,6 @@ https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-
 https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
 https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png
 
-When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
-1.  Using Root AWS acc, enable billing alerts in user preferences. Then use CloudWatch to create billing alarm & set threashold to specific dollar amount for your est monthly charges.  (correct ans)
-
-2.  Using Root AWS acc, activate IAM access to billing information for account. Ensure your IAM user have BillingFullAccess Group Policy. Then from billing dashboard, check accrued charge once a day.
-
-3.  Use bill dashboard to create cost budget. Input max amount you want to be charged each mo. Any charges that occur over this amount will cause AWS to auto suspend these resources.
-
-4.  If you are using AWS free tier, you will have to confirm usage of any service that goes over AWS free tier limits.
 ---
 When launching EC2 instance with instance type that supports instance storage, what use case best for instance storage?
 1. Instance storage is faster than EBS vol. so, install root of operating sys on this vol to speed up server performance.
