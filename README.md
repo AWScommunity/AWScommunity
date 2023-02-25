@@ -40,10 +40,11 @@ also dyk that while doing IAM in root, you have to grant or deny permissions to 
     
 and if we want 50 new employees to have access to S3 buckets with unltd previlege and rest 60 with not, then I simply do: 
 create new group adding that 50 and add S3 bucket policy with unltd previlege.
+
 If u want details 1 feet below view of how it works, then go >>
 https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d-81d8-de7e122c28dc.png
 
-2.4 NACL
+2.4 NACL Network.Access.Control.List
 2.5 CloudWatch
 
 2.5 CloudTrail
@@ -58,6 +59,9 @@ Elastic BeanStalk : It handles the auto- provisioning of the infrastructure, dep
 3.3 [CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
 
 3.4 EC2 - IknowIt
+ec2 reserved instances        ec2 spot instances works on solo and on the spot
+
+ec2 dedicated hosts are usually when company wants to migrate n tier web applications to AWS and company wnats to control placement of instances and have visibility to underlying sockets and cores for listening purposes.
 
 3.5 S3
 ![s3](https://user-images.githubusercontent.com/109033173/221375145-c9aade21-8a6e-49a0-bc4f-1182c6367f9e.png)
