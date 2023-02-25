@@ -38,7 +38,7 @@ create new group adding that 50 and add S3 bucket policy with unltd previlege.
 ![CLP-syllabus](https://user-images.githubusercontent.com/109033173/221373082-f1cb1df2-706c-4279-b1f0-a3b42308bcda.png)
 ![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
 
-[ for understanding about cloudformation opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
+[ for understanding about opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
  
 ---
 ![image](https://user-images.githubusercontent.com/109033173/188077200-bc536f61-4776-4935-86c5-c5567b175d2e.png)
