@@ -37,6 +37,7 @@ create new group adding that 50 and add S3 bucket policy with unltd previlege.
 ---
 ![CLP-syllabus](https://user-images.githubusercontent.com/109033173/221373082-f1cb1df2-706c-4279-b1f0-a3b42308bcda.png)
 ![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
+
 <iframe width="1141" height="642" src="https://www.youtube.com/embed/BhNfhHXvhhc" title="Introduction to AWS OpsWorks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ![image](https://user-images.githubusercontent.com/109033173/188077200-bc536f61-4776-4935-86c5-c5567b175d2e.png)
@@ -65,7 +66,9 @@ When launching EC2 instance with instance type that supports instance storage, w
  
 When creating new EC2 instance, we can access it from public internet BY auto-assigning to it new public IP address.
 
-How does security group protect your cloud infrastructure? Wrong ans- traffic is allowed to flow betn AWS services but you must add rules to expose ports to public internet. HINT is: A security group with no outbound rules will also block that resources from reaching out to other AWS service endpoints. 
+How does security group protect your cloud infrastructure?
+Wrong ans- traffic is allowed to flow betn AWS services but you must add rules to expose ports to public internet. 
+HINT is: A security group with no outbound rules will also block that resources from reaching out to other AWS service endpoints. 
 
 ---
 ![image](https://user-images.githubusercontent.com/109033173/185830254-038e4876-beeb-45ff-9026-103df622dccd.png)
@@ -86,7 +89,6 @@ cloud soln archi quiz solving screenshots, put this way so as to not steal FOCUS
 https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png
 https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
 https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png
-
 
 --
 new CIO joins your company and implements a new company policy that all EC2 instances must have encryption at rest. What is the quickest and easiest way to apply this policy to your existing EC2 instances?
