@@ -89,6 +89,7 @@ about SQS- additional note other than my pownotes
 cloud soln archi quiz solving screenshots, put this way so as to not steal FOCUS from main meats above.
 https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png
 https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
+
 --
 new CIO joins your company and implements a new company policy that all EC2 instances must have encryption at rest. What is the quickest and easiest way to apply this policy to your existing EC2 instances?
 
