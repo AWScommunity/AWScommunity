@@ -99,8 +99,6 @@ Any charges that occur over this amount will cause AWS to auto suspend these res
 On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
 Billing Support
 
-![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
-
 ---
 watch this below dgm w that CIDR notes from my Whitepaper
 ![image](https://user-images.githubusercontent.com/109033173/183240652-76f9f489-b36b-4b9c-952a-49189d5c789c.png)
