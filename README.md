@@ -1,8 +1,14 @@
 ====
 Listed on base of priority
+
 aws..com bibek...@g 3..3
+
 aws.amazon.com sh..@g 37W..337W..3
---- [AMAZON account for registering aws cloud architect exams](https://aws.amazon.com/certification/certification-prep/testing/) etc   and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with sbi.@g 37w.8
+
+ [AMAZON account for registering aws cloud architect exams](https://aws.amazon.com/certification/certification-prep/testing/) etc   
+
+and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) 
+is with sbi.@g 37w.8
 ====
 [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 ![Untitledfffffff](https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d-81d8-de7e122c28dc.png)
