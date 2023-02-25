@@ -5,13 +5,28 @@ aws..com bibek...@g 3..3     aws.amazon.com sh..@g 37W..337W..3
 
 and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with sbi.@g 37w.8
 
-====
-![Untitledfffffff](https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d-81d8-de7e122c28dc.png)
+---
+C L O U D . P R A C T I T I O N E R - code: CLF- CO1 
+1.CLOUD CONCEPT (IknowIt) - 26% marks
+1.1 WHY cloud? Agility,Elasticity, Flexibility & Security
+1.2 TCO 
+1.3 AWS Pricing Model, 
+1.4 Cost explorer & Trusted Advisor
 
+2. SECURITY & COMPLIANCE - 25%
+2.1 HIPAA Compliance
+
+2.2 IAM 
+![image](https://user-images.githubusercontent.com/109033173/185743047-ca90154f-f832-4145-a1bc-14b968c20a39.png)
+
+IAM is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. 
+For eg, if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal aka master aka root aws acc. 
+
+2.3 MFA and User&Groups
 ![image](https://user-images.githubusercontent.com/109033173/185743032-f91f0896-ec79-4c3a-8008-355e06bde191.png)
 achieve single sign-on in principal aka root aws acc by configuring SAML2.0
 
-now lets get around some tricky situation where for SSO, SAML2.0 is not configured.
+Now lets get around some tricky situation where for SSO, SAML2.0 is not configured.
  
 suppose some X company has employees who need to run internal applications that access company's aws resources. these employees already have user credentials in company's Identity Auth system, WHICH DOESNT SUPPORT SAML2.0 ,and company doesnt want to create seperate IAM user for each company employees.
     SO, IN THIS CASE, SSO setup can be designed by:
@@ -24,55 +39,38 @@ also dyk that while doing IAM in root, you have to grant or deny permissions to 
     
 and if we want 50 new employees to have access to S3 buckets with unltd previlege and rest 60 with not, then I simply do: 
 create new group adding that 50 and add S3 bucket policy with unltd previlege.
+If u want details 1 feet below view of how it works, then go >>
+https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d-81d8-de7e122c28dc.png
 
----
-![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png)
----
-C L O U D . P R A C T I T I O N E R - code: CLF- CO1 
-CLOUD CONCEPT (IknowIt) - 26% marks
-WHY cloud? Agility,Elasticity, Flexibility & Security
-TCO, AWS Pricing Model, 
-Cost explorer & Trusted Advisor
+2.4 NACL
+2.5 CloudWatch
 
-SECURITY & COMPLIANCE - 25%
-HIPAA Compliance
+2.5 CloudTrail
 
-IAM 
-![image](https://user-images.githubusercontent.com/109033173/185743047-ca90154f-f832-4145-a1bc-14b968c20a39.png)
-IAM-policy-Ninja post: is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. 
-For eg, if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal aka master aka root aws acc. 
-
-MFA
-
-Users and Groups
-
-NACL
-CloudWatch
-CloudTrail
-
-TECHNOLOGY- 33%
+3 TECHNOLOGY- 33%
 Elastic BeanStalk : It handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 
-CloudFormation
+3.1 CloudFormation
 
-[Opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
-[CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
-EC2, 
+3.2 [Opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
 
-S3
+3.3 [CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
+
+3.4 EC2 - IknowIt
+
+3.5 S3
 ![s3](https://user-images.githubusercontent.com/109033173/221375145-c9aade21-8a6e-49a0-bc4f-1182c6367f9e.png)
  
-AZs & Regions, EdgeLocations
+3.6 AZs & Regions, EdgeLocations
 ![image](https://user-images.githubusercontent.com/109033173/221374914-ebf2c34c-6aa6-48b4-ab75-34781cb882c7.png)
 
-SQS
+3.7 SQS
 ![SQS](https://user-images.githubusercontent.com/109033173/221375039-1f4ef01e-db1c-44fe-a977-944991c8f3b2.png)
 
-SNS (<- look my white note)
-ELB, VPC 
-EBS,  Route53
+3.8 SNS , ELB, VPC(<- look my white note)
+3.9 EBS,  Route53
 
-BILLING & PRICING - 16%
+4 BILLING & PRICING - 16%
 On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
 Billing Support
 
@@ -125,3 +123,6 @@ new CIO joins your company and implements a new company policy that all EC2 inst
 
 In the AWS console, click on the EC2 instances, click actions and click encrypt EBS voulmes.
 Create a snapshot of the EC2 volume. Then create a copy of that volume, checking the box to enable encryption. Create an AMI of the copied snapshot and then redeploy the EC2 instance using the encrypted AMI. Delete the old EC2 instance. (Ans)
+
+---
+![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png) 
