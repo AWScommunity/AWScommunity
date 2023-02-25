@@ -38,9 +38,11 @@ create new group adding that 50 and add S3 bucket policy with unltd previlege.
 ![CLP-syllabus](https://user-images.githubusercontent.com/109033173/221373082-f1cb1df2-706c-4279-b1f0-a3b42308bcda.png)
 ![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
 
-<iframe width="1141" height="642" src="https://www.youtube.com/embed/BhNfhHXvhhc" title="Introduction to AWS OpsWorks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[<iframe width="1141" height="642" src="https://www.youtube.com/embed/BhNfhHXvhhc" title="Introduction to AWS OpsWorks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+](https://www.youtube.com/watch?v=BhNfhHXvhhc)
 ---
 ![image](https://user-images.githubusercontent.com/109033173/188077200-bc536f61-4776-4935-86c5-c5567b175d2e.png)
+
 ---
 AWS Elastic Beanstalk handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 
