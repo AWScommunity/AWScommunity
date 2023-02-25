@@ -28,7 +28,7 @@ So, this std tho was pioneered on health data I think has been extended to all o
 
 So, AWS tools are HIPAA eligible means they can be and so have to be worked to make HIPAA compliant. They are not HIPAA compliant on their own. That's where is also: shared responsibility comes in.
 
-2.2 IAM 
+2.2 Identity.Access.Management and User&Groups
 
 ![image](https://user-images.githubusercontent.com/109033173/185743047-ca90154f-f832-4145-a1bc-14b968c20a39.png)
 
@@ -49,19 +49,23 @@ IAM
    .remove unneccess users
     So,  these are best practices we should do as our SHARED RESPONSIBILITY whereas AwS RESPONSIBILTY is -handles infrstructure security.  provides 3rd party audits  .OS n db patching, firewall config, DR
 ```
+![image](https://user-images.githubusercontent.com/109033173/221377563-d45c01af-6fd0-483d-9611-e8ea931090b3.png)
 
-2.3 MFA and User&Groups
+2.3 MFA
 
-![image](https://user-images.githubusercontent.com/109033173/185743032-f91f0896-ec79-4c3a-8008-355e06bde191.png)
+![Untitled](https://user-images.githubusercontent.com/109033173/221377586-ea23b004-47ff-4de7-81cd-d9fb42aa02c3.png)
+
 achieve single sign-on in principal aka root aws acc by configuring SAML2.0
 
-Now lets get around some tricky situation where for SSO, SAML2.0 is not configured.
- 
+Now lets get around some tricky situation below where for SSO, SAML2.0 is not configured.
+
+``` 
 suppose some X company has employees who need to run internal applications that access company's aws resources. these employees already have user credentials in company's Identity Auth system, WHICH DOESNT SUPPORT SAML2.0 ,and company doesnt want to create seperate IAM user for each company employees.
     SO, IN THIS CASE, SSO setup can be designed by:
  creating custom identity broker application which authenticates employees using existing system, and 
 a) uses GetFederationToken API call and passes permission policy to gain temporary access credentials from Security.Token.Service.
 b) uses AssumeRole API call to gain temporary role based access to AWS
+```
 
 btw: Federation unlike SSO or unlike authentication is a collection of domains that have established trust. The level of trust may vary, but typically includes authentication and almost always includes authorization. A typical federation might include a number of organizations that have established trust for shared access to a set of resources.
 also dyk that while doing IAM in root, you have to grant or deny permissions to individual IAM, or in group ,or do to federated domains.
@@ -135,31 +139,6 @@ watch this below dgm w that CIDR notes from my Whitepaper
 ![image](https://user-images.githubusercontent.com/109033173/193422322-b40f7d08-68b7-4d6f-8a3e-faaf23aa1606.png)
 
 ![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
-
----
-cloud soln archi SAA - CO2 quiz solving screenshots, put this way so as to not steal FOCUS from main meats above.
-https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png
-https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
-https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png
-
----
-When launching EC2 instance with instance type that supports instance storage, what use case best for instance storage?
-1. Instance storage is faster than EBS vol. so, install root of operating sys on this vol to speed up server performance.
-2. USe instance storage to serve temp files that require low I/O latency.
-3. USe instance storage to handle files uploaded by your users. Since its more secure than EBS vol, you can isolate any malicious fies from infecting your server. (X)
---- 
-When creating new EC2 instance, we can access it from public internet BY auto-assigning to it new public IP address.
-
-How does security group protect your cloud infrastructure?
-Wrong ans- traffic is allowed to flow betn AWS services but you must add rules to expose ports to public internet. 
-
-HINT is: A security group with no outbound rules will also block that resources from reaching out to other AWS service endpoints. 
-
---
-new CIO joins your company and implements a new company policy that all EC2 instances must have encryption at rest. What is the quickest and easiest way to apply this policy to your existing EC2 instances?
-
-In the AWS console, click on the EC2 instances, click actions and click encrypt EBS voulmes.
-Create a snapshot of the EC2 volume. Then create a copy of that volume, checking the box to enable encryption. Create an AMI of the copied snapshot and then redeploy the EC2 instance using the encrypted AMI. Delete the old EC2 instance. (Ans)
 
 ---
 ![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png) 
