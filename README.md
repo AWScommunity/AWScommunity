@@ -7,14 +7,20 @@ aws..com bibek...@g 3..3     aws.amazon.com sh..@g 37W..337W..3
 and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with sbi.@g 37w.8
 
 ---
-C L O U D . P R A C T I T I O N E R - code: CLF- CO1 
-1.CLOUD CONCEPT (IknowIt) - 26% marks
+**C L O U D . P R A C T I T I O N E R - code: CLF- CO1 **
+
+**1.CLOUD CONCEPT (IknowIt) - 26% marks**
+
 1.1 WHY cloud? Agility,Elasticity, Flexibility & Security
+
 1.2 TCO 
-1.3 AWS Pricing Model, 
+
+1.3 AWS Pricing Model
+
 1.4 Cost explorer & Trusted Advisor
 
-2. SECURITY & COMPLIANCE - 25%
+**2. SECURITY & COMPLIANCE - 25%**
+
 2.1 HIPAA Compliance
 
 2.2 IAM 
@@ -49,7 +55,7 @@ https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d
 
 2.5 CloudTrail
 
-3 TECHNOLOGY- 33%
+**3 TECHNOLOGY- 33%** 
 Elastic BeanStalk : It handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 
 3.1 CloudFormation
@@ -87,7 +93,7 @@ Any charges that occur over this amount will cause AWS to auto suspend these res
 3.8 SNS , ELB, VPC(<- look my white note)
 3.9 EBS,  Route53
 
-4 BILLING & PRICING - 16%
+**4 BILLING & PRICING - 16%**
 On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
 Billing Support
 
