@@ -51,6 +51,7 @@ If u want details 1 feet below view of how it works, then go >>
 https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d-81d8-de7e122c28dc.png
 
 2.4 NACL Network.Access.Control.List
+
 2.5 CloudWatch
 
 2.5 CloudTrail
