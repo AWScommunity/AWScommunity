@@ -107,6 +107,8 @@ Any charges that occur over this amount will cause AWS to auto suspend these res
 
 3.5 S3
 ![s3](https://user-images.githubusercontent.com/109033173/221375145-c9aade21-8a6e-49a0-bc4f-1182c6367f9e.png)
+
+![1662828705515](https://user-images.githubusercontent.com/109033173/221377341-ea943eab-7efb-43ac-b2d3-911ba4a359f2.jpg)
  
 3.6 AZs & Regions, EdgeLocations
 ![image](https://user-images.githubusercontent.com/109033173/221374914-ebf2c34c-6aa6-48b4-ab75-34781cb882c7.png)
