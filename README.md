@@ -18,7 +18,8 @@ For eg, if u want s3 to be accessed by say dev account ID345, then simply write 
 ![image](https://user-images.githubusercontent.com/109033173/185743032-f91f0896-ec79-4c3a-8008-355e06bde191.png)
 achieve single sign-on in principal aka root aws acc by configuring SAML2.0
 
-now lets get around some tricky situation where for SSO, SAML2.0 is not configured. 
+now lets get around some tricky situation where for SSO, SAML2.0 is not configured.
+ 
 suppose some X company has employees who need to run internal applications that access company's aws resources. these employees already have user credentials in company's Identity Auth system, WHICH DOESNT SUPPORT SAML2.0 ,and company doesnt want to create seperate IAM user for each company employees.
     SO, IN THIS CASE, SSO setup can be designed by:
  creating custom identity broker application which authenticates employees using existing system, and 
@@ -36,6 +37,7 @@ create new group adding that 50 and add S3 bucket policy with unltd previlege.
 ---
 ![CLP-syllabus](https://user-images.githubusercontent.com/109033173/221373082-f1cb1df2-706c-4279-b1f0-a3b42308bcda.png)
 ![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
+<iframe width="1141" height="642" src="https://www.youtube.com/embed/BhNfhHXvhhc" title="Introduction to AWS OpsWorks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ![image](https://user-images.githubusercontent.com/109033173/188077200-bc536f61-4776-4935-86c5-c5567b175d2e.png)
 ---
@@ -66,15 +68,6 @@ When creating new EC2 instance, we can access it from public internet BY auto-as
 How does security group protect your cloud infrastructure? Wrong ans- traffic is allowed to flow betn AWS services but you must add rules to expose ports to public internet. HINT is: A security group with no outbound rules will also block that resources from reaching out to other AWS service endpoints. 
 
 ---
-
-An new CIO joins your company and implements a new company policy that all EC2 instances must have encryption at rest. What is the quickest and easiest way to apply this policy to your existing EC2 instances?
-
-In the AWS console, click on the EC2 instances, click actions and click encrypt EBS voulmes.
-
-Create a snapshot of the EC2 volume. Then create a copy of that volume, checking the box to enable encryption. Create an AMI of the copied snapshot and then redeploy the EC2 instance using the encrypted AMI. Delete the old EC2 instance. (Ans)
-
----
-
 ![image](https://user-images.githubusercontent.com/109033173/185830254-038e4876-beeb-45ff-9026-103df622dccd.png)
 
 ---
@@ -92,7 +85,13 @@ about SQS- additional note other than my pownotes
 
 ![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
 
-![image](https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png)
-aaaa
 
-![image](https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png)
+cloud soln archi quiz solving screenshots, put this way so as to not steal FOCUS from main meats above.
+https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png
+https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
+--
+new CIO joins your company and implements a new company policy that all EC2 instances must have encryption at rest. What is the quickest and easiest way to apply this policy to your existing EC2 instances?
+
+In the AWS console, click on the EC2 instances, click actions and click encrypt EBS voulmes.
+Create a snapshot of the EC2 volume. Then create a copy of that volume, checking the box to enable encryption. Create an AMI of the copied snapshot and then redeploy the EC2 instance using the encrypted AMI. Delete the old EC2 instance. (Ans)
+
