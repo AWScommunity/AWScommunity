@@ -47,7 +47,7 @@ IAM
      Anyway Key rotation is needed becoz security compliance audit demands u change keys to instances once every mo. or more frequently but if u are lazy bear, just changing key once a while, then there's one click gui button change to rotate key pair once every yr n u don't have to do manually. So key pair is just, like u got 3 doors , n u rotate key door combination shifted from door a to b to c to a once while .
   
    .remove unneccess users
-
+    So,  these are best practices we should do as our SHARED RESPONSIBILITY whereas AwS RESPONSIBILTY is -handles infrstructure security.  provides 3rd party audits  .OS n db patching, firewall config, DR
 ```
 
 2.3 MFA and User&Groups
@@ -118,6 +118,7 @@ Any charges that occur over this amount will cause AWS to auto suspend these res
 3.9 EBS,  Route53
 
 **4 BILLING & PRICING - 16%**
+
 On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
 Billing Support
 
