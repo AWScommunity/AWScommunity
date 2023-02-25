@@ -1,19 +1,12 @@
-====
-Listed on base of priority
-
+Listed on base of priority  [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 aws..com bibek...@g 3..3     aws.amazon.com sh..@g 37W..337W..3
 
- [AMAZON account for registering aws cloud architect exams](https://aws.amazon.com/certification/certification-prep/testing/) etc   
+[AMAZON account for registering aws cloud architect exams](https://aws.amazon.com/certification/certification-prep/testing/) etc   
 
 and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with sbi.@g 37w.8
 
 ====
-[.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 ![Untitledfffffff](https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d-81d8-de7e122c28dc.png)
----
-![image](https://user-images.githubusercontent.com/109033173/185743047-ca90154f-f832-4145-a1bc-14b968c20a39.png)
-IAM-policy-Ninja post: is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. 
-For eg, if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal aka master aka root aws acc. 
 
 ![image](https://user-images.githubusercontent.com/109033173/185743032-f91f0896-ec79-4c3a-8008-355e06bde191.png)
 achieve single sign-on in principal aka root aws acc by configuring SAML2.0
@@ -35,23 +28,77 @@ create new group adding that 50 and add S3 bucket policy with unltd previlege.
 ---
 ![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png)
 ---
-![CLP-syllabus](https://user-images.githubusercontent.com/109033173/221373082-f1cb1df2-706c-4279-b1f0-a3b42308bcda.png)
-![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
+C L O U D . P R A C T I T I O N E R - code: CLF- CO1 
+CLOUD CONCEPT (IknowIt) - 26% marks
+WHY cloud? Agility,Elasticity, Flexibility & Security
+TCO, AWS Pricing Model, 
+Cost explorer & Trusted Advisor
 
-[ for understanding about opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
+SECURITY & COMPLIANCE - 25%
+HIPAA Compliance
+
+IAM 
+![image](https://user-images.githubusercontent.com/109033173/185743047-ca90154f-f832-4145-a1bc-14b968c20a39.png)
+IAM-policy-Ninja post: is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. 
+For eg, if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal aka master aka root aws acc. 
+
+MFA
+
+Users and Groups
+
+NACL
+CloudWatch
+CloudTrail
+
+TECHNOLOGY- 33%
+Elastic BeanStalk : It handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
+
+CloudFormation
+
+[Opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
+[CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
+EC2, 
+
+S3
+![s3](https://user-images.githubusercontent.com/109033173/221375145-c9aade21-8a6e-49a0-bc4f-1182c6367f9e.png)
  
----
-![image](https://user-images.githubusercontent.com/109033173/188077200-bc536f61-4776-4935-86c5-c5567b175d2e.png)
+AZs & Regions, EdgeLocations
+![image](https://user-images.githubusercontent.com/109033173/221374914-ebf2c34c-6aa6-48b4-ab75-34781cb882c7.png)
 
----
-AWS Elastic Beanstalk handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
+SQS
+![SQS](https://user-images.githubusercontent.com/109033173/221375039-1f4ef01e-db1c-44fe-a977-944991c8f3b2.png)
+
+SNS (<- look my white note)
+ELB, VPC 
+EBS,  Route53
+
+BILLING & PRICING - 16%
+On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
+Billing Support
+
+![image](https://user-images.githubusercontent.com/109033173/212552499-4d611ffc-5af3-4092-bcfc-5114a9484ad1.png)
 
 ---
 watch this below dgm w that CIDR notes from my Whitepaper
 ![image](https://user-images.githubusercontent.com/109033173/183240652-76f9f489-b36b-4b9c-952a-49189d5c789c.png)
 
 ---
-Some questions commonly asked in AWS SAA- CO2 Solution Archi Exam:
+![image](https://user-images.githubusercontent.com/109033173/185830254-038e4876-beeb-45ff-9026-103df622dccd.png)
+
+---
+![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
+
+---
+![image](https://user-images.githubusercontent.com/109033173/193422322-b40f7d08-68b7-4d6f-8a3e-faaf23aa1606.png)
+
+![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
+
+---
+cloud soln archi SAA - CO2 quiz solving screenshots, put this way so as to not steal FOCUS from main meats above.
+https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png
+https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
+https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png
+
 When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
 1.  Using Root AWS acc, enable billing alerts in user preferences. Then use CloudWatch to create billing alarm & set threashold to specific dollar amount for your est monthly charges.  (correct ans)
 
@@ -65,37 +112,16 @@ When launching EC2 instance with instance type that supports instance storage, w
 1. Instance storage is faster than EBS vol. so, install root of operating sys on this vol to speed up server performance.
 2. USe instance storage to serve temp files that require low I/O latency.
 3. USe instance storage to handle files uploaded by your users. Since its more secure than EBS vol, you can isolate any malicious fies from infecting your server. (X)
-
 --- 
 When creating new EC2 instance, we can access it from public internet BY auto-assigning to it new public IP address.
 
 How does security group protect your cloud infrastructure?
 Wrong ans- traffic is allowed to flow betn AWS services but you must add rules to expose ports to public internet. 
+
 HINT is: A security group with no outbound rules will also block that resources from reaching out to other AWS service endpoints. 
-
----
-![image](https://user-images.githubusercontent.com/109033173/185830254-038e4876-beeb-45ff-9026-103df622dccd.png)
-
----
-![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
-
----
-about SQS- additional note other than my pownotes
-![image](https://user-images.githubusercontent.com/109033173/186567385-af686d8a-27de-43d8-9d58-13939dba2739.png)
----
-![image](https://user-images.githubusercontent.com/109033173/193422322-b40f7d08-68b7-4d6f-8a3e-faaf23aa1606.png)
-
-![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
-
-
-cloud soln archi quiz solving screenshots, put this way so as to not steal FOCUS from main meats above.
-https://user-images.githubusercontent.com/11883023/184070149-17cad737-a8be-4f99-b4f8-569f5b99c8a4.png
-https://user-images.githubusercontent.com/11883023/184070191-691e28c7-830a-473e-9e8c-cb9714ae3777.png
-https://user-images.githubusercontent.com/109033173/187847252-1f3b7709-04bb-4a34-9c3e-271a6b92553e.png
 
 --
 new CIO joins your company and implements a new company policy that all EC2 instances must have encryption at rest. What is the quickest and easiest way to apply this policy to your existing EC2 instances?
 
 In the AWS console, click on the EC2 instances, click actions and click encrypt EBS voulmes.
 Create a snapshot of the EC2 volume. Then create a copy of that volume, checking the box to enable encryption. Create an AMI of the copied snapshot and then redeploy the EC2 instance using the encrypted AMI. Delete the old EC2 instance. (Ans)
-
