@@ -129,10 +129,6 @@ On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
 Billing Support
 
 ---
-watch this below dgm w that CIDR notes from my Whitepaper
-![image](https://user-images.githubusercontent.com/109033173/183240652-76f9f489-b36b-4b9c-952a-49189d5c789c.png)
-
----
 ![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
 
 ---
