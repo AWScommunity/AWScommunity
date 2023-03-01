@@ -21,7 +21,7 @@ and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https
 
 **2. SECURITY & COMPLIANCE - 25%**
 
-2.1 HIPAA Compliance
+2.1 HIPAA Compliance:
 HIPAA forces us to encrypt-decrypt-data-by-using-PEM-files-or-etc Post:
 So anyway as I was saying about HIPAA compliance, Health.Insurance.Protocol.sthg is law passed by US govt about how health data and other must follow Business.Associate.Agreement BAA , how it's in transit data. Ie data when passing thru servers like we do in API passing betn different servers say from db to say app servers like GraphQL operates w, should all be encrypted eg. TLS, xyz encrypted as verified by AWS.Certificate.Manager ; moreover there's Cloudtrail etc to watch who has had access to data so that we can submit it to data security audit when they ask for..
 So, this std tho was pioneered on health data I think has been extended to all other sectors like say finance industry, payment gateway industry.
