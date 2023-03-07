@@ -30,7 +30,7 @@ So, AWS tools are HIPAA eligible means they can be and so have to be worked to m
 
 2.2 Identity.Access.Management and User&Groups
 
-![image](https://user-images.githubusercontent.com/109033173/185743047-ca90154f-f832-4145-a1bc-14b968c20a39.png)
+![IAM](https://user-images.githubusercontent.com/109033173/223454034-40fd3ad8-b614-4eba-b6af-220a83d02369.png)
 
 IAM is about needs to deal w administrating diff accounts as dgm. so as in famous yt v in amazon web services channel. 
 For eg, if u want s3 to be accessed by say dev account ID345, then simply write s3accessPolicy: true yml for ID345 in that principal aka master aka root aws acc. 
