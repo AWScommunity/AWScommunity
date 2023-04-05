@@ -1,6 +1,6 @@
 Listed on base of priority  [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 
-aws..com bibek...@g 3..3     aws.amazon.com sh..@g 37W..337W..3
+aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now)
 
 [AMAZON account for registering aws cloud architect exams](https://aws.amazon.com/certification/certification-prep/testing/) etc   
 
