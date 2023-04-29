@@ -92,10 +92,25 @@ https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d
 
 3.3 [CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
 
+---
 3.4 EC2 - IknowIt
-ec2 reserved instances        ec2 spot instances works on the spot means borrowing unused ec2s if needed             ec2 dedicated instance  _ek patak her hai reserved n dedicated, lil confusing_   ec2 lightsail - sab kura paila ready-ed xa jastai networking etc all needed
+
+ec2 reserved instances  
+
+ec2 spot instances works on the spot means borrowing unused ec2s if needed       
+
+ec2 dedicated instance  _ek patak her hai reserved n dedicated, lil confusing_  
+
+ec2 lightsail - sab kura paila ready-ed xa jastai networking etc all needed
 
 ec2 dedicated hosts are usually when company wants to migrate n tier web applications to AWS and company wnats to control placement of instances and have visibility to underlying sockets and cores for listening purposes.
+
+ecs ec2 good when u want more control of deployed infrastructure, ecs fargate good when u want to have less mgmt overhead. 
+
+Also, ecs agent is to start stop ecs container instance whereas Task Definition describes container n volume defn of ecs task.
+
+---
+
 ```
 When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
 1.  Using Root AWS acc, enable billing alerts in user preferences. Then use CloudWatch to create billing alarm & set threashold to specific dollar amount for your est monthly charges.  (correct ans)
