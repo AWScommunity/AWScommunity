@@ -17,7 +17,7 @@ and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https
 
 1.3 AWS Pricing Model
 
-1.4 Cost explorer & Trusted Advisor
+1.4 [Cost explorer](https://www.youtube.com/watch?v=oE8TNKGmc40) & [Trusted Advisor](https://www.youtube.com/watch?v=HIR6z0Fr1Yo)
 
 **2. SECURITY & COMPLIANCE - 25%**
 
