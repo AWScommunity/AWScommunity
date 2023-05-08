@@ -4,9 +4,11 @@ aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now
 
 [AMAZON account for registering aws cloud architect exams](https://aws.amazon.com/certification/certification-prep/testing/) etc   
 
-and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with sbi.@g 37w.83w.8  - https://console.aws.amazon.com/billing/  ma jau ra di ko card rakha default ma ani yei lai primary set gara ani balla hunx pay succes
+and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with shrsmriti@g r.T.1 or 2- Iforgot
+- https://console.aws.amazon.com/billing/  ma jau ra di ko card rakha default ma ani yei lai primary set gara ani balla hunx pay succes
 
 ![image](https://user-images.githubusercontent.com/109033173/236808475-0e7cda80-2f1d-43f5-aba2-9d98579b3e68.png)
+
 Read 'Ego is the enemy' vvek, thats my subconscious blunder
 
 ---
@@ -40,17 +42,19 @@ For eg, if u want s3 to be accessed by say dev account ID345, then simply write 
 
 ```
 IAM
+
+![image](https://user-images.githubusercontent.com/109033173/236812602-273c3f0e-db0e-43c6-b52e-40cabae54288.png)
+
 > handles authentication (who can), authori(what they can)
 > users can have programmatic access n/or console access
 > best practices
-   . delete root acc keys    .Instead use IAM acc
-   . Use MFA     .Use groups   .use roles   
+   . delete root acc keys    .Instead use IAM acc       .Use groups   .use roles   
    .rotate credentials: Symmetric key is where u use same key for encrypting n decrypting as well. Symm key is used default by AWS and symm keys eg are .. whereas asymm key is when u use one key to encrypt n     another to decrypt. Asymm key are Elliptic curve technology, RSA etc.
 
      Anyway Key rotation is needed becoz security compliance audit demands u change keys to instances once every mo. or more frequently but if u are lazy bear, just changing key once a while, then there's one click gui button change to rotate key pair once every yr n u don't have to do manually. So key pair is just, like u got 3 doors , n u rotate key door combination shifted from door a to b to c to a once while .
   
    .remove unneccess users
-    So,  these are best practices we should do as our SHARED RESPONSIBILITY whereas AwS RESPONSIBILTY is -handles infrstructure security.  provides 3rd party audits  .OS n db patching, firewall config, DR
+    
 ```
 ![image](https://user-images.githubusercontent.com/109033173/221377563-d45c01af-6fd0-483d-9611-e8ea931090b3.png)
 
