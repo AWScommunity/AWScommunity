@@ -49,10 +49,12 @@ IAM
    . delete root acc keys    .Instead use IAM acc       .Use groups   .use roles   
    .rotate credentials: Symmetric key is where u use same key for encrypting n decrypting as well. Symm key is used default by AWS and symm keys eg are .. whereas asymm key is when u use one key to encrypt n     another to decrypt. Asymm key are Elliptic curve technology, RSA etc.
 
-     Anyway Key rotation is needed becoz security compliance audit demands u change keys to instances once every mo. or more frequently but if u are lazy bear, just changing key once a while, then there's one click gui button change to rotate key pair once every yr n u don't have to do manually. So key pair is just, like u got 3 doors , n u rotate key door combination shifted from door a to b to c to a once while .
+     Anyway Key rotation is needed becoz security compliance audit demands u change keys to instances once every mo. or more frequently
+ but if u are lazy bear, just changing key once a while, then there's one click gui button change to rotate key pair once every yr n u don't have to do manually. 
+So key pair is just, like u got 3 doors , n u rotate key door combination shifted from door a to b to c to a once while .
   
    .remove unneccess users
-    
+  
 ```
 ![image](https://user-images.githubusercontent.com/109033173/236812602-273c3f0e-db0e-43c6-b52e-40cabae54288.png)
 
