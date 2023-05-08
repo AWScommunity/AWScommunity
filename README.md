@@ -6,7 +6,8 @@ aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now
 
 and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with sbi.@g 37w.83w.8  - https://console.aws.amazon.com/billing/  ma jau ra di ko card rakha default ma ani yei lai primary set gara ani balla hunx pay succes
 
-![image](https://user-images.githubusercontent.com/109033173/235846159-f081e821-982c-4ae3-9c76-c8558434c67a.png)
+![image](https://user-images.githubusercontent.com/109033173/236808475-0e7cda80-2f1d-43f5-aba2-9d98579b3e68.png)
+Read 'Ego is the enemy' vvek, thats my subconscious blunder
 
 ---
 **C L O U D . P R A C T I T I O N E R - code: CLF- CO1 **
