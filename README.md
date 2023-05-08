@@ -43,8 +43,6 @@ For eg, if u want s3 to be accessed by say dev account ID345, then simply write 
 ```
 IAM
 
-![image](https://user-images.githubusercontent.com/109033173/236812602-273c3f0e-db0e-43c6-b52e-40cabae54288.png)
-
 > handles authentication (who can), authori(what they can)
 > users can have programmatic access n/or console access
 > best practices
@@ -56,6 +54,8 @@ IAM
    .remove unneccess users
     
 ```
+![image](https://user-images.githubusercontent.com/109033173/236812602-273c3f0e-db0e-43c6-b52e-40cabae54288.png)
+
 ![image](https://user-images.githubusercontent.com/109033173/221377563-d45c01af-6fd0-483d-9611-e8ea931090b3.png)
 
 2.3 MFA
