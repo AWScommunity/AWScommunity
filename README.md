@@ -12,6 +12,7 @@ and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https
 **Read 'Ego is the enemy' vvek, thats my subconscious blunder। विवेक, चेसगु नहेर्, दिमागको भयन्कर मिसयुज हो यो, बरु सुत चिल गर, बाबावाला प्रोब्लम ट्याकल गर जसको लागि चेसगु हेर्नुपर्दैन , 
 यदि चेसगु हेर्यो भने आखा फोड्दिन्छु, सर्च गरेमा औला भाच्छु , instead stoCompletion, ICT vid hiPriority ma rakh (for which 1st try to solv US acc udya problem, kehi sip nalage balla nepStock), tara cosAirdrop ta herdai garna, ani gnoland OS contribn gardai gara. WRITE DOWN TOMM todos 3 times BEFORE ssleep hai vivek
 **
+
 ---
 **C L O U D . P R A C T I T I O N E R - code: CLF- CO1 **
 
