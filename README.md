@@ -9,11 +9,6 @@ and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https
 
 ![image](https://user-images.githubusercontent.com/109033173/236808475-0e7cda80-2f1d-43f5-aba2-9d98579b3e68.png)
 
-**Ego is my enemy n past mistakes in medi vvek, thats my subconscious blunder। dont repeat it
-विवेक, चेसगु नहेर, I am bigBoy now दिमागको भयन्कर मिसयुज हो यो, बरु सुत चिल गर, बाबावाला प्रोब्लम ट्याकल गर जसको लागि चेसगु हेर्नुपर्दैन , 
-यदि चेसगु हेर्यो भने आखा फोड्दिन्छु, सर्च गरेमा औला भाच्छु , instead stoCompletion, ICT vid hiPriority ma rakh (for which 1st try to solv US acc udya problem, kehi sip nalage balla nepStock), tara cosAirdrop ta herdai garna, ani gnoland OS contribn gardai gara. WRITE DOWN TOMM todos 3 times BEFORE ssleep hai vivek
-**
-
 ---
 **C L O U D . P R A C T I T I O N E R - code: CLF- CO1 **
 
