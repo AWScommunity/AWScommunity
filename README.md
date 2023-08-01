@@ -110,7 +110,7 @@ ec2 reserved instances
 
 ec2 spot instances works on the spot means borrowing unused ec2s if needed       
 
-ec2 dedicated instance  _ek patak her hai reserved n dedicated, lil confusing_  
+ec2 dedicated instance -Spot instances allow u to bid on unused Amazon EC2 capacity n pay by hr. Dedicated Spot instances have the same price as standard Spot instances. WHEREAS Dedicated Reserved Instances provide a capacity reservation so that you can have confidence in your ability to launch the number of instances you have reserved when you need them. Dedicated Reserved Instances also provide you with a significant discount (up to 75%) compared to On-Demand instance pricing.
 
 ec2 lightsail - sab kura paila ready-ed xa jastai networking etc all needed
 
