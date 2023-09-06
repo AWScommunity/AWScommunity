@@ -7,7 +7,7 @@ aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now
 and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with shrsmriti@g r.T.1 or 2- Iforgot
 - https://console.aws.amazon.com/billing/  ma jau ra di ko card rakha default ma ani yei lai primary set gara ani balla hunx pay succes
 
-![Capture](https://github.com/AWScommunity/AWScommunity/assets/109033173/9a2e2e9d-2d54-4690-9f4c-013324a560c2)
+![236808475-0e7cda80-2f1d-43f5-aba2-9d98579b3e68](https://github.com/AWScommunity/AWScommunity/assets/109033173/944202c3-8f99-4c53-8d75-2186bf8ad1a2)
 
 ---
 **C L O U D . P R A C T I T I O N E R - code: CLF- CO1 **
