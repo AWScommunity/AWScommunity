@@ -1,3 +1,88 @@
+[Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM. Ans other q to build my karma ](https://stackoverflow.com/users/saves/18984980/all)
+
+![image](https://github.com/sbibek086/sbibek086/assets/11883023/b699d3aa-f26d-4fcb-96d2-c7d51db5731e)
+
+---
+All things VScode
+
+![Untitled](https://user-images.githubusercontent.com/11883023/192343170-aaa3d50b-7620-4856-9d37-3b64842ef2b6.png)
+
+![image](https://github.com/sbibek086/sbibek086/assets/11883023/e1b1013f-44e4-4b25-8bf8-2109ab69b890)
+
+---
+![image](https://github.com/sbibek086/sbibek086/assets/11883023/ad6c2ca3-3b37-4f52-b425-7ebbab59c8fe)
+
+![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
+
+ I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ
+) and http://worldchatclock.com/
+- 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 673072513
+
+![Class](https://user-images.githubusercontent.com/11883023/192349460-6241390f-5edb-4262-b18e-eb760b6c8bd4.png)
+                          
+---
+Just Random Sticky Notes to Self to feed my eyes:
+CAMTASIA RECORD DEV CMD LOGS to ErStha YT for future ref
+
+DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
+my words- yes, doing docker way is 10step to 5step thing but need to know port mapping etc concept expertly. so not recommended unless know these.
+So, unless know, do localhost way primary way
+
+![dockerWorkFlow](https://user-images.githubusercontent.com/11883023/209544204-48c30b20-48e6-47b5-972c-af4b98ddb45c.png)
+
+![dockerCmds](https://user-images.githubusercontent.com/11883023/226905071-689ef9cc-36be-4d97-8a29-fe38de12edba.png)
+
+```
+docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
+```
+![docker2](https://user-images.githubusercontent.com/11883023/192002125-893e6b7e-eaf9-4f3e-a16d-b5e5a70b3fe7.png)
+
+```
+docker pull wordpress
+docker run -d -e WORDPRESS_DB_NAME=mysite -e WORDPRESS_DB_USER=mysite -e WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html wordpress
+```
+[Do all this wholesome in DockerCompose.yml way](https://sbibek086.github.io/write-the-docs/2022-04-30-YML-HowToWrite-ItsA2Zusage.html)
+
+---
+![hhhhhhh](https://user-images.githubusercontent.com/11883023/192354286-821301ca-cbeb-4561-986f-a01d6b364dc5.png)
+---
+|**I am Markdown** | *Click* ~~pen~~ pencil icon in this README in new tab|
+|  --------------------|---------------------------------------------------------------|
+|to see `whats written to produce this effect` | & more of other markdowns effect in this README|
+| In case of numbering & bulleting style markdown|                        |
+|1. numbered                                                         |                      |
+|2. if just Enter, numbering will simply populate to 2 |                  |
+|double enter to destroy it. same with - |                    |
+|`Markdowns are supported in` | `not only this README, but also in wikis, gist, issue, PR comments etc` |
+| `to find out where its supported` | simply look if `M!` symbol exists at bottom right corner |
+| just ignore 100  other fancy BS markdowns | I DONT need it |
+| tiny enter, tab can have drastic | effect on markdown, take care |
+
+- [ ] for todos not completed
+- [X] for todos completed 
+
+Below JS is syntax highlighted. find how, simply clicking edit.
+```javascript
+// program to validate an email address
+function validateEmail(email_id) {
+    const regex_pattern =      /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|
+(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    
+    if (regex_pattern.test(email_id)) {
+        console.log('The email address is valid');
+    }
+    else {
+        console.log('The email address is not valid');
+    }
+}
+validateEmail('abc123@gmail.com');
+validateEmail('hello@com');
+```
+![Untitledddddddddd](https://user-images.githubusercontent.com/11883023/175770518-7c0c691d-58bb-4264-9162-bed10d9c0940.png)[.](https://til.simonwillison.net/)
+
+![py](https://github.com/sbibek086/sbibek086/assets/11883023/5423fd15-a6e4-4e8f-843b-3243709f2142)
+
+=======from below, AWS ===================
 Listed on base of priority [💰](https://steemit.com/@cryptonauthop)  [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 
 aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now)
