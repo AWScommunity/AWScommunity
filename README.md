@@ -1,3 +1,5 @@
+b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Login gitlab w this ghub; Del%temp%ButNEVERdelGoingFolderLocationOf%temp%
+
 Listed on base of priority [💰](https://steemit.com/@cryptonauthop)  [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
 
 aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now)
