@@ -1,6 +1,58 @@
-b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Login gitlab w this ghub; Del%temp%ButNEVERdelGoingFolderLocationOf%temp%
+![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
 
-Listed on base of priority [💰](https://steemit.com/@cryptonauthop)  [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889#comments)
+I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
+- 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251
+
+---
+b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingFolderLocationOf%temp%: fork py repo n comment concept next to code to learn vv fast;  put one virgin G account drive entirely for colab note.
+[Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM](https://stackoverflow.com/users/saves/18984980/all) [🐍👨🏾‍💻](https://colab.research.google.com/) [🧠](https://chat.openai.com/)
+
+![buddha](https://github.com/AWScommunity/AWScommunity/assets/109033173/af4fbe7c-7547-4f1f-b43c-e72df848d571)
+![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
+![github-gui-quickies](https://github.com/AWScommunity/AWScommunity/assets/109033173/313d8373-d893-4f40-a92c-9eb80a163701)
+
+![vscode](https://github.com/AWScommunity/AWScommunity/assets/109033173/71e8659e-19a0-4169-9cb3-717913c74123)
+![github-codespace-not-every1-has-access](https://user-images.githubusercontent.com/11883023/192343170-aaa3d50b-7620-4856-9d37-3b64842ef2b6.png)
+![vscode-cmds](https://github.com/AWScommunity/AWScommunity/assets/109033173/6b1464a4-5c1c-4715-9999-5b0bb7948dbb)  
+                    
+---
+![terminals-just-nerd-way-of-r-l-click](https://user-images.githubusercontent.com/11883023/192354286-821301ca-cbeb-4561-986f-a01d6b364dc5.png)
+
+---
+|**I am Markdown** | *Click* ~~pen~~ pencil icon in this README in new tab|
+|  --------------------|---------------------------------------------------------------|
+|to see `whats written to produce this effect` | & more of other markdowns effect in this README|
+| In case of numbering & bulleting style markdown|                        |
+|1. numbered                                                         |                      |
+|2. if just Enter, numbering will simply populate to 2 |                  |
+|double enter to destroy it. same with - |                    |
+|`Markdowns are supported in` | `not only this README, but also in wikis, gist, issue, PR comments etc` |
+| `to find out where its supported` | simply look if `M!` symbol exists at bottom right corner |
+| just ignore 100  other fancy BS markdowns | I DONT need it |
+| tiny enter, tab can have drastic | effect on markdown, take care |
+
+- [ ] for todos not completed
+- [X] for todos completed 
+
+Below JS is syntax highlighted. find how, simply clicking edit.
+```javascript
+// program to validate an email address +showing how regex used. not interested in JS tho +to see how below cmd snippet efect produced
+function validateEmail(email_id) {
+    const regex_pattern =      /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|
+(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    
+    if (regex_pattern.test(email_id)) {
+        console.log('The email address is valid');
+    }
+    else {
+        console.log('The email address is not valid');
+    }
+}
+validateEmail('abc123@gmail.com');
+validateEmail('hello@com');
+```
+---
+Listed on base of priority [💰](https://steemit.com/@cryptonauthop)
 
 aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now)
 
@@ -9,9 +61,6 @@ aws..com bibek...@g 3..3     (aws.amazon.com sh..@g 37W..337W..3 DOESNT work now
 and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with shrsmriti@g r.T.1 or 2- Iforgot
 - https://console.aws.amazon.com/billing/  ma jau ra di ko card rakha default ma ani yei lai primary set gara ani balla hunx pay succes
 
-![192342943-97b8611a-1f0a-4c9d-a872-b2f1a2afa90c](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
-
----
 **C L O U D . P R A C T I T I O N E R - code: CLF- CO1 **
 
 **1.CLOUD CONCEPT (IknowIt) - 26% marks**
@@ -61,7 +110,6 @@ So key pair is just, like u got 3 doors , n u rotate key door combination shifte
   
 ```
 ![image](https://user-images.githubusercontent.com/109033173/236812602-273c3f0e-db0e-43c6-b52e-40cabae54288.png)
-
 ![image](https://user-images.githubusercontent.com/109033173/221377563-d45c01af-6fd0-483d-9611-e8ea931090b3.png)
 
 2.3 MFA
@@ -100,9 +148,7 @@ https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d
 3.0 Elastic BeanStalk : It handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 
 3.1 CloudFormation : It provides template while creating resources. someway slightly like html templates
-
 3.2 [Opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
-
 3.3 [CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
 
 ---
@@ -123,7 +169,6 @@ ecs ec2 good when u want more control of deployed infrastructure, ecs fargate go
 Also, ecs agent is to start stop ecs container instance whereas Task Definition describes container n volume defn of ecs task.
 
 ---
-
 ```
 When using AWS for R&D ahead of planned migration, how do you prevent unexpected increases or spikes in billing?
 1.  Using Root AWS acc, enable billing alerts in user preferences. Then use CloudWatch to create billing alarm & set threashold to specific dollar amount for your est monthly charges.  (correct ans)
@@ -139,7 +184,6 @@ Any charges that occur over this amount will cause AWS to auto suspend these res
 
 3.5 S3
 ![s3](https://user-images.githubusercontent.com/109033173/221375145-c9aade21-8a6e-49a0-bc4f-1182c6367f9e.png)
-
 ![image](https://user-images.githubusercontent.com/109033173/235315187-a3b14b00-b597-415e-9b61-2b6e7e6990c0.png)
  
 3.6 AZs & Regions, EdgeLocations
@@ -161,11 +205,11 @@ Billing Support
 
 ---
 ![image](https://user-images.githubusercontent.com/109033173/193422322-b40f7d08-68b7-4d6f-8a3e-faaf23aa1606.png)
-
 ![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
 
 ---
 ![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png) 
+
 ---
 ![CLF- exam](https://user-images.githubusercontent.com/109033173/223468690-82307b7a-97eb-42e1-879b-9aa7fad55a36.png)
 
