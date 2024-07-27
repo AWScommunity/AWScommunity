@@ -8,7 +8,7 @@ I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251
 
 ---
-b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingFolderLocationOf%temp%: fork py repo n comment concept next to code to learn vv fast;  put one virgin G account drive entirely for colab note.
+b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingFolderLocationOf%temp%: fork py repo n comment concept next to code to learn vv fast;  put one virgin G account drive entirely for colab note[.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 [Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM](https://stackoverflow.com/users/saves/18984980/all) [🐍👨🏾‍💻](https://colab.research.google.com/) [🧠](https://chat.openai.com/)
 
 ![github-gui-quickies](https://github.com/AWScommunity/AWScommunity/assets/109033173/313d8373-d893-4f40-a92c-9eb80a163701)
