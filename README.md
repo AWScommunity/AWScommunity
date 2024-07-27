@@ -1,6 +1,8 @@
 ![buddha](https://github.com/AWScommunity/AWScommunity/assets/109033173/0235b840-45c5-499a-a7b4-03b651a71bdb)
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
+![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
+![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
 
 I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251
@@ -36,19 +38,6 @@ b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingF
 
 Below JS is syntax highlighted. find how, simply clicking edit.
 ```javascript
-// program to validate an email address +showing how regex used. not interested in JS tho +to see how below cmd snippet efect produced
-function validateEmail(email_id) {
-    const regex_pattern =      /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|
-(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-    
-    if (regex_pattern.test(email_id)) {
-        console.log('The email address is valid');
-    }
-    else {
-        console.log('The email address is not valid');
-    }
-}
-validateEmail('abc123@gmail.com');
-validateEmail('hello@com');
+// just to show how this cmd copy pastable block is generated in ghub. Rclick to find.
 ```
 ---
