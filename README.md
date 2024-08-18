@@ -16,11 +16,7 @@ put one virgin G account drive entirely for colab note
 [Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM](https://stackoverflow.com/users/saves/18984980/all) [🐍👨🏾‍💻](https://colab.research.google.com/) [🧠](https://chat.openai.com/) [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
 ![github-gui-quickies](https://github.com/AWScommunity/AWScommunity/assets/109033173/313d8373-d893-4f40-a92c-9eb80a163701)
-
-![vscode](https://github.com/AWScommunity/AWScommunity/assets/109033173/71e8659e-19a0-4169-9cb3-717913c74123)
-![github-codespace-not-every1-has-access](https://user-images.githubusercontent.com/11883023/192343170-aaa3d50b-7620-4856-9d37-3b64842ef2b6.png)
-![vscode-cmds](https://github.com/AWScommunity/AWScommunity/assets/109033173/6b1464a4-5c1c-4715-9999-5b0bb7948dbb)  
-                    
+            
 ---
 ![terminals-just-nerd-way-of-r-l-click](https://user-images.githubusercontent.com/11883023/192354286-821301ca-cbeb-4561-986f-a01d6b364dc5.png)
 
