@@ -1,7 +1,7 @@
 ![buddha](https://github.com/AWScommunity/AWScommunity/assets/109033173/0235b840-45c5-499a-a7b4-03b651a71bdb)
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
-![packageDependency](https://github.com/user-attachments/assets/65b9098d-b1fa-402e-8177-9db65191657a)
+
 ![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
 ![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
 
