@@ -1,7 +1,7 @@
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
 
-![image](https://github.com/user-attachments/assets/25b7d99e-73e2-4ae4-b47c-a725d42c84e7)
+![image](https://github.com/user-attachments/assets/0bac14b2-989c-4e7c-a405-f0315533d0f4)
 ![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
 ![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
 
