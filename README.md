@@ -1,8 +1,15 @@
-![buddha](https://github.com/AWScommunity/AWScommunity/assets/109033173/0235b840-45c5-499a-a7b4-03b651a71bdb)
+2-3hrs deep on deepTask PassiveIncomSysBuilding;BrainFood- okhar, cashewNuts, Fish; focusFinisFewThings1st
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
 
+---
 ![image](https://github.com/user-attachments/assets/0bac14b2-989c-4e7c-a405-f0315533d0f4)
+kaamchalau app in bash itself. (bash mai ta aauchh ni, hello world ni bash mai athyo)
+![image](https://github.com/user-attachments/assets/7964e025-de39-4f74-a349-775277eb8cf5)
+
+Also, shop.db pani create vayera baseko chh tyo path ma ie. home/educare ma in my ubuntu
+
+---
 ![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
 ![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
 
@@ -14,7 +21,7 @@ b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingF
 
 put one virgin G account drive entirely for colab note
 
-[Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM](https://stackoverflow.com/users/saves/18984980/all) [🐍👨🏾‍💻](https://colab.research.google.com/) [🧠](https://chat.openai.com/) [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
+[Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM](https://stackoverflow.com/users/saves/18984980/all) [🐍👨🏾‍💻](https://colab.research.google.com/) [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
 ![github-gui-quickies](https://github.com/AWScommunity/AWScommunity/assets/109033173/313d8373-d893-4f40-a92c-9eb80a163701)
             
