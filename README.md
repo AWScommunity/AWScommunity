@@ -3,11 +3,7 @@
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
 
 ---
-![image](https://github.com/user-attachments/assets/0bac14b2-989c-4e7c-a405-f0315533d0f4)
-kaamchalau app in bash itself. (bash mai ta aauchh ni, hello world ni bash mai athyo)
-![image](https://github.com/user-attachments/assets/7964e025-de39-4f74-a349-775277eb8cf5)
-
-Also, shop.db pani create vayera baseko chh tyo path ma ie. home/educare ma in my ubuntu
+![db](https://github.com/user-attachments/assets/21b7e7ef-fded-42ec-924b-dddbb6d9a77f)
 
 ---
 ![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
