@@ -1,4 +1,9 @@
-2-3hrs deep on deepTask PassiveIncomSysBuilding;BrainFood- okhar, cashewNuts, Fish; focusFinisFewThings1st
+2-3hrs deep on deepTask PassiveIncomSysBuilding;BrainFood- okhar, cashewNuts, Fish; focusFinisFewThings1st ; 
+
+b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingFolderLocationOf%temp%: fork py repo n comment concept next to code to learn vv fast;  
+
+put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC garna sath PASTE gar  n utube imp herexi link paste gar
+
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 ![About-Bibek](https://user-images.githubusercontent.com/11883023/170458925-cb1673ac-f378-4e99-9369-9b4a5712abf3.jpg)
 
@@ -12,10 +17,7 @@
 I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251
 
----
-b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingFolderLocationOf%temp%: fork py repo n comment concept next to code to learn vv fast;  
-
-put one virgin G account drive entirely for colab note
+--- 
 
 [Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM](https://stackoverflow.com/users/saves/18984980/all) [🐍👨🏾‍💻](https://colab.research.google.com/) [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
