@@ -5,7 +5,8 @@ b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingF
 put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC garna sath PASTE gar  n utube imp herexi link paste gar
 
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
-![image](https://github.com/user-attachments/assets/9c5e4aaf-aaa8-42e3-9d33-aef7bf4ae0b0)
+![image](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
+
 
 ---
 ![db](https://github.com/user-attachments/assets/21b7e7ef-fded-42ec-924b-dddbb6d9a77f)
