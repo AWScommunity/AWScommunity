@@ -17,11 +17,9 @@ put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC gar
 ![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
 
 I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
-- 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251
+- 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
 --- 
-
-[Read Docus 1st. If still, then STACKOVERFLOW CURES MY PROBLEM](https://stackoverflow.com/users/saves/18984980/all) [🐍👨🏾‍💻](https://colab.research.google.com/) [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
 ![github-gui-quickies](https://github.com/AWScommunity/AWScommunity/assets/109033173/313d8373-d893-4f40-a92c-9eb80a163701)
             
