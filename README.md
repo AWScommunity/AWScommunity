@@ -8,10 +8,6 @@ put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC gar
 ![image](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
 
-
----
-![db](https://github.com/user-attachments/assets/21b7e7ef-fded-42ec-924b-dddbb6d9a77f)
-
 ---
 ![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
 ![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
@@ -20,7 +16,6 @@ I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
 --- 
-
 ![github-gui-quickies](https://github.com/AWScommunity/AWScommunity/assets/109033173/313d8373-d893-4f40-a92c-9eb80a163701)
             
 ---
