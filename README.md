@@ -1,7 +1,8 @@
 -Replace hub with ingres in githun repo; ctrl cv given dir to gpt GIVES how to install this repo
+
 -add study.new/ infront of youtube.com/watch TO text summarize
 
-2-3hrs deep on deepTask PassiveIncomSysBuilding;BrainFood- okhar, cashewNuts, Fish; focusFinisFewThings1st ; 
+2-3hrs deep on deepTask PassiveIncomSysBuilding; BrainFood- okhar, cashewNuts, Fish; focusFinisFewThings1st ; 
 
 b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingFolderLocationOf%temp%: fork py repo n comment concept next to code to learn vv fast;  
 
