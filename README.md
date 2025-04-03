@@ -10,6 +10,7 @@ put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC gar
 
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 ![image](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
+![github's copilot](https://github.com/user-attachments/assets/d898b729-144c-4a56-a76e-7fe3dc7fa8af)
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
 
 ---
