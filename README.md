@@ -1,3 +1,5 @@
+-WHITE NOTE banako foto khichera GIST ma RAAAKHI HALA vivek
+
 -Replace hub with ingres in githun repo; ctrl cv given dir to gpt GIVES how to install this repo
 
 -add study.new/ infront of youtube.com/watch TO text summarize
