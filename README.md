@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
+
 -WHITE NOTE banako foto khichera GIST ma RAAAKHI HALA vivek
 
 -Replace hub with ingres in githun repo; ctrl cv given dir to gpt GIVES how to install this repo
