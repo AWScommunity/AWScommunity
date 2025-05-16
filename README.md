@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
+1st sync vscode to AWScommunity ghub, then-
+![image](https://github.com/user-attachments/assets/dd049175-e35f-4358-b5c5-e99f132fcc07)
+
 -WHITE NOTE banako foto khichera GIST ma RAAAKHI HALA vivek
 
 -Replace hub with ingres in githun repo; ctrl cv given dir to gpt GIVES how to install this repo
@@ -16,9 +19,6 @@ put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC gar
 
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 ![image](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
-
-1st sync vscode to AWScommunity ghub, then-
-![image](https://github.com/user-attachments/assets/4b84d6bd-6c31-4bc5-ac8d-c3c2d5cb6c14)
 
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
 
