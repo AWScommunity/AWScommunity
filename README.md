@@ -23,7 +23,6 @@ put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC gar
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
 
 ---
-![makemigrations](https://github.com/user-attachments/assets/2637e752-e6d2-40a6-844a-c805f01aefff)
 ![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
 ![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
 
