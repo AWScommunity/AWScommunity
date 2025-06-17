@@ -1,5 +1,13 @@
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
+---
+About Me: 
+![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
+
+I am also a certified AWS Cloud Practitioner:
+https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c
+
+---
 1st sync vscode to AWScommunity ghub, then-
 ![image](https://github.com/user-attachments/assets/dd049175-e35f-4358-b5c5-e99f132fcc07)
 
@@ -18,7 +26,6 @@ b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingF
 put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC garna sath PASTE gar  n utube imp herexi link paste gar
 
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
-![image](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
 
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
 
