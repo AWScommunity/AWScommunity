@@ -1,12 +1,14 @@
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
 ---
-About Me: 
 ![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
 
 I am also a certified AWS Cloud Practitioner:
 https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c
 ![image](https://github.com/user-attachments/assets/208c3276-5a33-4e90-887d-aeb5d8f40741)
+
+---
+<img width="702" height="697" alt="image" src="https://github.com/user-attachments/assets/8401f2ef-2007-460f-9820-c6b767f80ab7" />
 
 ---
 1st sync vscode to AWScommunity ghub, then-
