@@ -8,7 +8,7 @@ https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c
 ![image](https://github.com/user-attachments/assets/208c3276-5a33-4e90-887d-aeb5d8f40741)
 
 ---
-<img width="702" height="697" alt="image" src="https://github.com/user-attachments/assets/8401f2ef-2007-460f-9820-c6b767f80ab7" />
+<img width="702" height="697" alt="image" src="https://github.com/user-attachments/assets/089ad13a-b06a-4743-b837-1090977a9626" />
 
 ---
 1st sync vscode to AWScommunity ghub, then-
