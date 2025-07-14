@@ -16,13 +16,15 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 
 -Replace hub with ingres in githun repo; ctrl cv given dir to gpt GIVES how to install this repo
 
+-Replace hub with diagram in ghub repo
+
 -add study.new/ infront of youtube.com/watch TO text summarize
 
 ![image](https://github.com/user-attachments/assets/786e902b-17b2-4a79-894f-dfb3a20245c1)
 
 2-3hrs deep on deepTask PassiveIncomSysBuilding; BrainFood- okhar, cashewNuts, Fish; focusFinisFewThings1st ; 
 
-b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); Del%temp%ButNEVERdelGoingFolderLocationOf%temp%: fork py repo n comment concept next to code to learn vv fast;  
+b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); fork py repo n comment concept next to code to learn vv fast;  
 
 put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC garna sath PASTE gar  n utube imp herexi link paste gar
 
