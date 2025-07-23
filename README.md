@@ -1,3 +1,4 @@
+Single.Sign.On to my online accounts by bitwardenCOM's n.s@g rT.!rT.!
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
 ---
