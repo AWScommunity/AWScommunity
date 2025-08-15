@@ -67,3 +67,5 @@ Below JS is syntax highlighted. find how, simply clicking edit.
 // just to show how this cmd copy pastable block is generated in ghub. Rclick to find.
 ```
 ---
+<img width="487" height="185" alt="image" src="https://github.com/user-attachments/assets/6a5ed787-405f-47b8-b2b8-47d58d32a1b1" />
+
