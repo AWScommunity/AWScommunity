@@ -1,6 +1,11 @@
-<img width="718" height="36" alt="image" src="https://github.com/user-attachments/assets/4d16b5f4-86b4-4490-bd83-feb8b3c0fcb0" />
+<img width="718" height="181" alt="image" src="https://github.com/user-attachments/assets/3a7beb10-b561-4b9c-8aa7-0ece669f984f" />
 
 Single.Sign.On to my online accounts by bitwardenCOM's n.s@g rT.!rT.!
+
+<img width="837" height="198" alt="image" src="https://github.com/user-attachments/assets/82950d0c-c0b7-468f-8952-52dfd8e1ad84" />
+
+<img width="455" height="315" alt="image" src="https://github.com/user-attachments/assets/bdb78c58-dd06-41b0-92b0-450bef557a92" />
+
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
 ---
@@ -15,21 +20,7 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 1st sync vscode to AWScommunity ghub, then-
 ![image](https://github.com/user-attachments/assets/dd049175-e35f-4358-b5c5-e99f132fcc07)
 
--WHITE NOTE banako foto khichera GIST ma RAAAKHI HALA vivek
-
--Replace hub with ingres in githun repo; ctrl cv given dir to gpt GIVES how to install this repo
-
--Replace hub with diagram in ghub repo
-
--add study.new/ infront of youtube.com/watch TO text summarize
-
 ![image](https://github.com/user-attachments/assets/786e902b-17b2-4a79-894f-dfb3a20245c1)
-
-2-3hrs deep on deepTask PassiveIncomSysBuilding; BrainFood- okhar, cashewNuts, Fish; focusFinisFewThings1st ; 
-
-b@g, 3w8⬆️ (GIT/LocallySaveVersionOfWorkingCode); fork py repo n comment concept next to code to learn vv fast;  
-
-put one virgin G account drive entirely for colab note; mySecExcel ma- CtrlC garna sath PASTE gar  n utube imp herexi link paste gar
 
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 
