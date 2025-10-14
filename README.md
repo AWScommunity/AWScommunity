@@ -2,9 +2,7 @@
 
 Single.Sign.On to my online accounts by bitwardenCOM's n.s@g rT.!rT.!
 
-<img width="837" height="198" alt="image" src="https://github.com/user-attachments/assets/82950d0c-c0b7-468f-8952-52dfd8e1ad84" />
-
-<img width="455" height="315" alt="image" src="https://github.com/user-attachments/assets/bdb78c58-dd06-41b0-92b0-450bef557a92" />
+<img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/241bf447-30b2-4a74-92ae-50363baec772" />
 
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
