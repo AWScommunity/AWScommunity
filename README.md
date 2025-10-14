@@ -2,7 +2,7 @@
 
 Single.Sign.On to my online accounts by bitwardenCOM's n.s@g rT.!rT.!
 
-<img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/241bf447-30b2-4a74-92ae-50363baec772" />
+<img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/5fd0a7ab-bc5d-42f0-89ca-09eef315c055" />
 
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
