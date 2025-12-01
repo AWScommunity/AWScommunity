@@ -34,10 +34,10 @@ I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
 --- 
-![github-gui-quickies](https://github.com/AWScommunity/AWScommunity/assets/109033173/313d8373-d893-4f40-a92c-9eb80a163701)
+<img width="501" height="363" alt="image" src="https://github.com/user-attachments/assets/f1146203-f604-44b0-97d1-cee165d6720a" />
             
 ---
-![terminals-just-nerd-way-of-r-l-click](https://user-images.githubusercontent.com/11883023/192354286-821301ca-cbeb-4561-986f-a01d6b364dc5.png)
+<img width="636" height="434" alt="image" src="https://github.com/user-attachments/assets/a07e71b9-b239-4ea0-aa70-2504a71e30cc" />
 
 ---
 |**I am Markdown** | *Click* ~~pen~~ pencil icon in this README in new tab|
