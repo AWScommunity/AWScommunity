@@ -1,8 +1,6 @@
 <img width="718" height="181" alt="image" src="https://github.com/user-attachments/assets/3a7beb10-b561-4b9c-8aa7-0ece669f984f" />
 
-Single.Sign.On to my online accounts by bitwardenCOM's n.s@g rT.!rT.!
-
-<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/6903e790-1c98-4243-8517-861c4f9ad301" />
+<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/fa09ef17-b99c-4ac5-a48e-df550c86ac10" />
 <img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/5fd0a7ab-bc5d-42f0-89ca-09eef315c055" />
 <img width="514" height="320" alt="image" src="https://github.com/user-attachments/assets/642cb0b8-7657-494d-ad27-70985c769642" />
 
