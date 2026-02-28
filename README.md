@@ -1,10 +1,12 @@
 <img width="718" height="181" alt="image" src="https://github.com/user-attachments/assets/3a7beb10-b561-4b9c-8aa7-0ece669f984f" />
 
+linkedin 3w8(UP)
+
 <img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/5fd0a7ab-bc5d-42f0-89ca-09eef315c055" />
 <img width="514" height="320" alt="image" src="https://github.com/user-attachments/assets/642cb0b8-7657-494d-ad27-70985c769642" />
 
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
-linkedin 3w8(UP)
+
 ---
 I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c)
 
