@@ -13,7 +13,7 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 ![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
 
 ---
-<img width="702" height="779" alt="image" src="https://github.com/user-attachments/assets/566154a2-9925-4a2a-bb4a-21b02b64d654" />
+<img width="702" height="779" alt="image" src="https://github.com/user-attachments/assets/9deb37d0-61be-45ad-910f-65f31c9dee0a" />
 
 ---
 1st sync vscode to AWScommunity ghub, then-
