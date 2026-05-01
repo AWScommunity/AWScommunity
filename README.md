@@ -2,7 +2,7 @@
 
 linkedin 3w8(UP)
 
-<img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/5fd0a7ab-bc5d-42f0-89ca-09eef315c055" />
+<img width="807" height="799" alt="image" src="https://github.com/user-attachments/assets/2670ce86-932a-48bb-b13d-778000176c29" />
 <img width="514" height="320" alt="image" src="https://github.com/user-attachments/assets/642cb0b8-7657-494d-ad27-70985c769642" />
 
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
@@ -13,7 +13,7 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 ![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
 
 ---
-<img width="702" height="779" alt="image" src="https://github.com/user-attachments/assets/9deb37d0-61be-45ad-910f-65f31c9dee0a" />
+<img width="941" height="1330" alt="image" src="https://github.com/user-attachments/assets/4d5e4dd1-237b-49a4-a9d6-d040d3711b2f" />
 
 ---
 1st sync vscode to AWScommunity ghub, then-
