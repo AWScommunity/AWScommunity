@@ -58,8 +58,7 @@ Below JS is syntax highlighted. find how, simply clicking edit.
 // just to show how this cmd copy pastable block is generated in ghub. Rclick to find.
 ```
 ---
-Actions for auutomating gitops:
-<img width="886" height="685" alt="image" src="https://github.com/user-attachments/assets/cf123342-e430-4bc4-9856-ff3e865669c7" />
+<img width="332" height="318" alt="image" src="https://github.com/user-attachments/assets/12e6d02e-0e7d-4806-87c0-e2edffb9b30e" />
 
 [OrigPostOfAboveImg](https://www.linkedin.com/posts/anetrebskii_gitops-devops-softwareengineering-share-7439932139221000192-GjTj/)
 
