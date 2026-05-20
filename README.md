@@ -26,8 +26,7 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
 
 ---
-![py](https://github.com/user-attachments/assets/f86bc6c5-e0d7-4daf-b83e-ec500e7b7fed)
-![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
+<img width="916" height="386" alt="image" src="https://github.com/user-attachments/assets/af27531b-a65b-4b0c-bbb3-9a125af44ce7" />
 
 I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
@@ -58,6 +57,14 @@ Below JS is syntax highlighted. find how, simply clicking edit.
 ```javascript
 // just to show how this cmd copy pastable block is generated in ghub. Rclick to find.
 ```
+---
+Actions for auutomating gitops:
+<img width="886" height="685" alt="image" src="https://github.com/user-attachments/assets/cf123342-e430-4bc4-9856-ff3e865669c7" />
+
+[OrigPostOfAboveImg](https://www.linkedin.com/posts/anetrebskii_gitops-devops-softwareengineering-share-7439932139221000192-GjTj/)
+
+<img width="596" height="322" alt="image" src="https://github.com/user-attachments/assets/83c0661a-3bff-4551-a057-d3e32479858f" />
+
 ---
 <img width="487" height="185" alt="image" src="https://github.com/user-attachments/assets/6a5ed787-405f-47b8-b2b8-47d58d32a1b1" />
 
