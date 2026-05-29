@@ -13,7 +13,7 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 ![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
 
 ---
-<img width="941" height="1330" alt="image" src="https://github.com/user-attachments/assets/1c9c9b2f-0a57-41ae-be0b-9640e1827c52" />
+<img width="941" height="1369" alt="image" src="https://github.com/user-attachments/assets/56fedb92-4d24-40e4-832b-13c2bf6e67f6" />
 
 ---
 1st sync vscode to AWScommunity ghub, then-
@@ -26,7 +26,7 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
 
 ---
-<img width="916" height="386" alt="image" src="https://github.com/user-attachments/assets/af27531b-a65b-4b0c-bbb3-9a125af44ce7" />
+<img width="941" height="1369" alt="image" src="https://github.com/user-attachments/assets/79c6068f-163e-4a0c-9e23-f05b36a0956a" />
 
 I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
