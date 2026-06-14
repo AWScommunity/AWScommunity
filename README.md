@@ -1,3 +1,5 @@
+chatgpt ma previous chat ma gayera edit garee Naya Q lekhni (to delete obsolete FiguredNotedOut below Qs) - YESTO Vscode copilot chat DOOOOONT- Chat tala tira Agent le thapeko KEEP gareko sab udchha 
+
 <img width="718" height="181" alt="image" src="https://github.com/user-attachments/assets/3a7beb10-b561-4b9c-8aa7-0ece669f984f" />
 
 linkedin 3w8(UP)
