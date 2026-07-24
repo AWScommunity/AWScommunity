@@ -1,3 +1,5 @@
+<img width="483" height="62" alt="image" src="https://github.com/user-attachments/assets/5bc721a2-9bbf-42e4-bb4f-afd237a215ba" />
+
 chatgpt ma previous chat ma gayera edit garee Naya Q lekhni (to delete obsolete FiguredNotedOut below Qs in that thread) - {YESTO Vscode copilot chat DOOOOONTdo;  Chat tala tira Agent le thapeko KEEP gareko sab udchha}
 
 <img width="785" height="518" alt="image" src="https://github.com/user-attachments/assets/5ce9e7a9-ee32-4479-98e9-b828ee6e2676" />
