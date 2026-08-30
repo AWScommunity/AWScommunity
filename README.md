@@ -1,3 +1,10 @@
+I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c)
+I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
+- 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 
+
+![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
+
+---
 <img width="483" height="62" alt="image" src="https://github.com/user-attachments/assets/5bc721a2-9bbf-42e4-bb4f-afd237a215ba" />
 
 chatgpt ma previous chat ma gayera edit garee Naya Q lekhni (to delete obsolete FiguredNotedOut below Qs in that thread) - {YESTO Vscode copilot chat DOOOOONTdo;  Chat tala tira Agent le thapeko KEEP gareko sab udchha}
@@ -13,11 +20,6 @@ chatgpt ma previous chat ma gayera edit garee Naya Q lekhni (to delete obsolete 
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
 ---
-I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c)
-
-![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
-
----
 <img width="941" height="1369" alt="image" src="https://github.com/user-attachments/assets/56fedb92-4d24-40e4-832b-13c2bf6e67f6" />
 
 ---
@@ -29,12 +31,6 @@ I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93c
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 
 ![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
-
----
-<img width="941" height="1369" alt="image" src="https://github.com/user-attachments/assets/79c6068f-163e-4a0c-9e23-f05b36a0956a" />
-
-I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
-- 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 [.](https://gist.github.com/AWScommunity/33ab6119dcdeffa149f245f3257fd889)
 
 --- 
 <img width="501" height="363" alt="image" src="https://github.com/user-attachments/assets/cc07dab3-c634-4e27-b09f-5956ab56328f" />
