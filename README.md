@@ -1,15 +1,12 @@
 I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c)
+
 I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 
 
 ![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
 
 ---
-<img width="483" height="62" alt="image" src="https://github.com/user-attachments/assets/5bc721a2-9bbf-42e4-bb4f-afd237a215ba" />
-
-chatgpt ma previous chat ma gayera edit garee Naya Q lekhni (to delete obsolete FiguredNotedOut below Qs in that thread) - {YESTO Vscode copilot chat DOOOOONTdo;  Chat tala tira Agent le thapeko KEEP gareko sab udchha}
-
-<img width="785" height="518" alt="image" src="https://github.com/user-attachments/assets/5ce9e7a9-ee32-4479-98e9-b828ee6e2676" />
+<img width="863" height="667" alt="image" src="https://github.com/user-attachments/assets/222e9910-2936-4395-b019-6e84bae8ecb5" />
 
 <img width="718" height="181" alt="image" src="https://github.com/user-attachments/assets/b3737db1-bd92-4665-8b17-ab0403f668f4" />
 
