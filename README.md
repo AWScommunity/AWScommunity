@@ -12,7 +12,7 @@ I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/
 
 <img width="807" height="799" alt="image" src="https://github.com/user-attachments/assets/2670ce86-932a-48bb-b13d-778000176c29" />
 
-<img width="514" height="320" alt="image" src="https://github.com/user-attachments/assets/642cb0b8-7657-494d-ad27-70985c769642" />
+aws docu url lingo: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide
 
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
@@ -23,11 +23,9 @@ I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/
 1st sync vscode to AWScommunity ghub, then-
 ![image](https://github.com/user-attachments/assets/dd049175-e35f-4358-b5c5-e99f132fcc07)
 
-![image](https://github.com/user-attachments/assets/786e902b-17b2-4a79-894f-dfb3a20245c1)
-
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 
-![mathToPy](https://github.com/user-attachments/assets/8b6edf24-42d7-4616-8f2a-18d455933f61)
+<img width="832" height="420" alt="image" src="https://github.com/user-attachments/assets/55fb52b2-727b-400a-8c21-6ca0bb05b6a5" />
 
 --- 
 <img width="501" height="363" alt="image" src="https://github.com/user-attachments/assets/cc07dab3-c634-4e27-b09f-5956ab56328f" />
