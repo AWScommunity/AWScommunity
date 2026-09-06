@@ -17,7 +17,7 @@ aws docu url lingo: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide
 ![image](https://github.com/user-attachments/assets/8cc38ae1-209f-40e7-afb7-5244860490fc)
 
 ---
-<img width="941" height="1369" alt="image" src="https://github.com/user-attachments/assets/6d1294ef-2a0e-4373-811b-1937843bafd0" />
+<img width="941" height="1785" alt="image" src="https://github.com/user-attachments/assets/712959c6-12e5-4d63-9cbe-aa7d569596e1" />
 
 ---
 1st sync vscode to AWScommunity ghub, then-
