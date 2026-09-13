@@ -33,6 +33,12 @@ aws docu url lingo: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide
 ---
 <img width="636" height="434" alt="image" src="https://github.com/user-attachments/assets/a07e71b9-b239-4ea0-aa70-2504a71e30cc" />
 
+a) -rvf garera use garna paiyo. aru flag haru -i for interactive, -a for showing hiddenFiles haru chhan: Yi cmdLingos linux ma matra haina, git, docker sab le convention tahat palana garne vai halyo. tes mathi git ka aafnai thap cmd hune vai halyo.
+
+b) UNIX dinosaur le --option=file garxa vane linux le -o file garxe, tara --version wala git le ma chai prayog gariranxu vanna ta paayo k.
+
+c) linux ra aru ko exact haina --help garera dekhini instructive cmdLingo ma: [] jasto, rm [FILE]... meaning remove can accept one file, two files, or a whole list of multiple files at once.
+
 ---
 |**I am Markdown** | *Click* ~~pen~~ pencil icon in this README in new tab|
 |  --------------------|---------------------------------------------------------------|
