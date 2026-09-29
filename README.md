@@ -1,6 +1,6 @@
-I am also a [certified AWS Cloud Practitioner](https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c)
+<img width="551" height="411" alt="image" src="https://github.com/user-attachments/assets/811265fb-e848-4d70-a309-80982ba942da" />
 
-I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
+A [certified AWS Cloud Practitioner](https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c) I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 
 
 ![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
