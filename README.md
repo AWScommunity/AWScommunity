@@ -3,7 +3,7 @@
 A [certified AWS Cloud Practitioner](https://www.credly.com/badges/93cb7411-4cd7-4c2e-ac74-8d1c1e338d3c) I am in GMT +5:45 Timezone. I use [Google Calendar](https://calendar.google.com/calendar/u/0?cid=c2JpYmVrMDg2QGdtYWlsLmNvbQ) and http://worldchatclock.com/
 - 📫 How to reach me: https://meet.google.com/stb-zjnv-ghe or if for mutual remote control of PC - anydesk: 67307251 
 
-![aboutMe](https://github.com/user-attachments/assets/e0e84135-6964-49a0-b458-cefaeef465e9)
+<img width="987" height="1128" alt="image" src="https://github.com/user-attachments/assets/f21580fa-4867-49c2-bb7f-04b01cf7b031" />
 
 ---
 <img width="863" height="667" alt="image" src="https://github.com/user-attachments/assets/222e9910-2936-4395-b019-6e84bae8ecb5" />
