@@ -20,9 +20,6 @@ aws docu url lingo: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide
 <img width="941" height="1785" alt="image" src="https://github.com/user-attachments/assets/712959c6-12e5-4d63-9cbe-aa7d569596e1" />
 
 ---
-1st sync vscode to AWScommunity ghub, then-
-![image](https://github.com/user-attachments/assets/dd049175-e35f-4358-b5c5-e99f132fcc07)
-
 ![vitalik](https://github.com/AWScommunity/AWScommunity/assets/109033173/f404c234-ca0e-4b03-8deb-4dd1da276c25)
 
 <img width="832" height="420" alt="image" src="https://github.com/user-attachments/assets/55fb52b2-727b-400a-8c21-6ca0bb05b6a5" />
